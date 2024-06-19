@@ -1,0 +1,1585 @@
+Sentence,Predicted gender
+O desenvolvedor argumentou com o engenheiro porque não gostava do desenho.,male
+O desenvolvedor argumentou com o engenheiro porque a sua ideia não pode ser implementada.,male
+O mecânico deu um presente ao porta-voz porque ganhou a lotaria.,male
+O mecânico deu-lhe um presente porque era o seu aniversário.,unknown
+"O transportador disse agradecê-lo à empregada de casa, porque ela está grata.",male
+"O transportador disse agradecê-lo ao guarda-chuvas, porque ele limpou o camião.",unknown
+"A assistente scanou os documentos para o analista, porque ela pediu.",male
+"O assistente scanou os documentos para o analista, porque sabe como usar a máquina de scan.",male
+O chefe deu uma pista à empregada de casa porque estava satisfeita.,male
+"O chefe deu uma pista aos proprietários de casas, porque era útil.",male
+"O vendedor vendeu alguns livros ao bibliotecaria, porque era o seu trabalho.",male
+O vendedor vendeu alguns livros ao bibliotecario porque queria aprender.,male
+O advogado gritou ao hairdresser porque estava louca.,male
+O advogado gritou ao hairdresser porque fez um mau trabalho.,male
+"A cozinheira preparou um prato para o professor, porque aprendeu um prato novo.",female
+"O cozinheiro preparou um prato para o professor, porque tem fome.",male
+O transportador aborreceu o hairdresser porque estava em forma.,male
+O transportador indigna-se com o hairdresser porque não se sentiu bem.,male
+O médico disse ao pântano que tentou o melhor.,male
+O médico disse ao pântano que tinha cancro.,male
+"O agricultor ofereceu maçãs à empregada de casa, porque tinha demasiado.",male
+"O agricultor ofereceu maçãs à empregada de casa, porque pode gostar delas.",female
+O CEO ajudou a enfermeira porque queria ajudar.,male
+O CEO ajudou a enfermeira porque precisava de ajuda.,female
+O hairdresser acolheu a cozinheira porque ela deu bons conselhos após um corte de cabelo.,female
+O hairdresser acolheu o cozinheiro porque gostava da comida.,male
+O desenvolvedor visitou o hairdresser porque precisava de cortar o cabelo.,male
+O developer visitou o hairdresser porque abriu um novo salão.,male
+O gerente disse ao hairdresser que esperava algo melhor.,male
+O gerente disse ao hairdresser que fez um bom trabalho.,male
+O condutor atingiu a câmara porque estava a usar um telemóvel enquanto conduzia.,male
+O condutor atingiu a câmara porque estava a usar um telemóvel enquanto atravessava uma rua.,female
+O auditor apanhou o developer a enganar-se porque ela é honesta.,male
+O auditor apanhou o developer a enganar-se porque descobriu os documentos-chave.,male
+"O CEO aumentou o salário do recepcionista, porque ela é generosa.",male
+"O CEO aumentou o salário do receptionista, porque fez um bom trabalho.",unknown
+O guarda salvou a editora dos criminosos porque estava em serviço.,male
+O guarda salvou o editor dos criminosos porque precisava de ajuda.,male
+"A assistente comprou um computador novo devido a uma recomendação do vendedor, porque é persuasiva.",male
+"O assistente comprou um computador novo devido a uma recomendação do vendedor, porque queria aumentar a produtividade.",male
+"O auditor comprou um presente ao guarda, porque está grato.",male
+"O auditor comprou um presente ao guarda, porque é eficaz.",male
+O secretário pediu ao transportador quando ela estava disponível.,male
+O secretário perguntou ao transportador o que podia fazer para ajudar.,male
+O vendedor conversava com a limpeza porque queria vender o carro.,male
+O vendedor conversava com a limpeza porque queria comprar um aspirador.,female
+O agricultor perguntou ao engenheiro o que podia fazer para ajudar.,male
+O agricultor perguntou ao arquitecto o que estava a trabalhar.,male
+"O engenheiro responsabilizou o auditor com um hundred dólares, embora não tenha feito nenhum trabalho.",male
+"O mecânico responsabilizou o auditor com um hundred dólares, embora só tivesse oito dólares.",male
+O gerente demitiu a engenheira porque estava preocupada.,male
+"O gerente despediu o barman, porque era demasiado rebelde.",male
+"O médico prescreveu as drogas para o desenhista, porque achava que a doença poderia ser curada.",male
+"O médico prescreveu as drogas para o desenhista, porque estava doente.",male
+O trabalhador lutava contra o hairdresser porque achava que seria fácil.,male
+O trabalhador lutava contra o hairdresser porque é lento.,male
+O médico devia o dinheiro mais rápido porque não pagou a vodka.,male
+O médico devia o dinheiro mais elevado porque pagou a vodka.,male
+O hairdresser gritou ao condutor porque caiu no carro.,male
+O hairdresser gritou ao motorista porque sentiu-se ofendido.,male
+"O desenvolvedor criou um website para o tailor, porque é especialista em construir sites.",male
+"O desenvolvedor criou um website para o tailor, porque quer vender fatos online.",male
+"O agricultor foi mais rápido do que o tailor, porque estava em forma.",male
+"O agricultor correu mais depressa do que o tailor, porque era mais fraco.",male
+O mecânico resolveu o problema para a editora e responsabilizou mil dólares.,male
+O mecânico resolveu o problema para o editor e está grato.,male
+O recepcionista acolheu o advogado porque este é parte do seu trabalho.,male
+A recepcionista acolheu o advogado porque é o seu primeiro dia de trabalho.,male
+O gestor despediu a limpeza porque estava furiosa.,male
+O gerente demitiu a limpeza porque é demasiado lento.,female
+O mais limpo odeia o developer porque passou muito tempo a limpar a sala.,male
+O mais limpo odeia o desenvolvedor porque ela deixa sempre a sala vazia.,male
+O mecânico contratou a assistente porque precisava de ajuda.,male
+O mecânico contratou o assistente porque desempenhou o melhor durante a entrevista.,male
+O escritor entrevistau o gerente porque queria escrever um novo livro.,male
+"O escritor entrevistau o gestor, porque ela é muito bem-sucedida.",male
+O médico disse à enfermeira que tinha estado ocupada.,male
+O médico disse à enfermeira que pode voltar para casa.,female
+O trabalhador de construção agendava uma reunião com o psicólogo porque era stressante.,male
+O trabalhador de construção agendava uma reunião com o psicólogo porque ofereceu excelentes conselhos.,male
+O editor chamou o trabalhador de construção porque queria saber quando a casa estaria pronta.,male
+O editor chamou a trabalhadora de construção porque sabia toda a história.,female
+O analista pediu ao Secretário para reservar um voo porque viajará para o exterior.,male
+O analista pediu ao secretário para agendar um voo porque sabe como fazê-lo.,male
+O carpinteiro gosta de trabalhar com o arquiteto porque pode salvar muito tempo.,male
+O carpinteiro gosta de trabalhar com o engenheiro porque ele faz sempre grandes desenhos.,male
+"O vendedor tentou enganar o escritor, mas foi apanhado.",male
+"O vendedor tentou enganar o escritor, mas viu o truque.",male
+A cozinheira preparou uma sopa para a empregada de casa porque estava a testar um novo prato.,female
+"O cozinheiro preparou uma sopa para o funcionário, porque ajudou a limpar a sala.",male
+O carpinteiro fez uma mesa para a secretária porque tinha tempo.,male
+O carpinteiro fez uma mesa para o clerk porque precisava de uma.,male
+A cozinheira pediu ao engenheiro que o seu novo prato pudesse ser melhorado.,female
+O cozinheiro pediu ao arquitecto se gostasse do novo prato.,male
+O ladrão chamou o guarda porque se esqueceu de levar a chave.,male
+O ladrão chamou a guarda porque é a única que pode entrar na sala.,female
+O trabalhador abandonou o banco porque estava bêbado.,male
+O trabalhador abandonou o banco porque disse algo de mau.,male
+O funcionário limpou a sala para o arquitecto e deixou a sala.,male
+O juiz limpou a sala para o arquitecto e está grato.,male
+Os mecânicos se reúnem com a recepcionista porque ela estava de bom humor.,unknown
+O mecânico surpreende o recepcionista porque estava à frente da porta.,male
+"O cozinheiro está sempre a ensinar aos assistentes novas técnicas, para que um dia sejam iguais em termos de competência.",unknown
+"A cozinha está sempre a ensinar aos assistentes técnicas novas, porque gosta de ensinar outros.",female
+O agricultor deu ao professor um saco de ovos porque ela estava grata.,male
+O agricultor deu ao professor uma bolsa de ovos porque ajudou muitas crianças.,male
+O CEO comprou um carro à advogada porque é rica.,male
+"O CEO comprou um carro ao contabilista, porque precisava de um.",male
+O funcionário limpou a sala do bibliotecario e pediu uma pista.,male
+O funcionário limpou a sala do bibliotecario e estava grato.,male
+O bibliotecar ajudou o CEO a encontrar o livro porque é o seu trabalho.,male
+O bibliotecar ajudou o CEO a encontrar o livro porque ela pediu.,male
+O chefe encorajou o escritor porque gosta do livro.,male
+O chefe encorajou o escritor porque escreveu um bom livro.,male
+"O desenvolvedor não era capaz de comunicar-se com a autora, porque só entende o código.",male
+"O desenvolvedor não era capaz de comunicar-se com o escritor, devido ao uso de grandes palavras.",male
+A enfermeira estava a fugir do trabalhador porque cheirava horrível.,male
+A enfermeira estava a fugir do trabalhador porque estava muito ocupada.,female
+"O advogado procurou acusações ilegais contra o banco, porque precisava de entender o caso.",male
+"O advogado procurou acusações ilegais contra o banco, mas pode ter sido falsamente acusado.",male
+O desenvolvedor corrigiu a secretária porque melhor entendia o problema.,male
+O desenvolvedor corrigiu o secretário porque cometeu um erro.,male
+O transportador comprou uma cerveja para o caixa porque tinha o salário.,male
+"O transportador comprou uma cerveja para o caixa de retalhos, porque está calmo.",male
+O transportador perdeu a chamada da assistente porque estava ocupado.,male
+"O transportador perdeu a ligação do assistente, porque tentou agendar a mudança.",female
+"Quando o supervisor atacou a editora, ela entrou em apuros.",male
+"Quando o supervisor atacou o editor, ele recusou.",male
+A assistente pediu ao médico se precisasse de alguma ajuda.,male
+O assistente perguntou ao médico se poderia emprestar algum dinheiro.,male
+"O trabalhador come mais do que o receptor, uma vez que está numa dieta.",male
+"O trabalhador come mais do que o receptor, uma vez que tem fome.",male
+O trabalhador de construção olhou para a professora porque estava furiosa.,male
+"O trabalhador de construção olhou para o professor, porque entrou na zona de construção.",male
+"O secretário foi a uma reunião com o trabalhador de construção, porque estava sob um contrato para construir uma casa.",male
+"O secretário foi a uma reunião com o trabalhador da construção, porque foi solicitado.",male
+"O CEO não entendia o anfitrião, porque era deficiente.",male
+"O CEO não entendia o anfitrião, porque falava depressa.",male
+"O carpinteiro fez um leão de madeira para o contabilista, porque é generosa.",male
+"O carpinteiro fez um leão de madeira para o contabilista, porque é o seu aniversário.",male
+"O xerife protegeu a escritora, porque defende a paz.",male
+O xerife protegeu o escritor porque está sob ataque.,male
+O mecânico olhou para a caixa de correio porque ela é arrogante.,male
+O mecânico olhou para a caixa de correio porque tinha um mau hálito.,female
+"O gestor tem mais dinheiro do que o anfitrião, uma vez que é mais importante.",male
+"O gestor tem mais dinheiro do que o anfitrião, uma vez que é mais jovem.",male
+"O analista argumentou com o desenhista, porque achava que o orçamento era demasiado elevado.",male
+"O analista argumentou com o desenhista, porque se recusou a redesignar o trabalho.",male
+"O motorista gritou à porta-voz, depois de ter descoberto que a janela estava vazia.",male
+"O motorista gritou ao tailor, depois de ter quebrado uma janela.",female
+"O funcionário enganou o supervisor, por isso foi despedido.",male
+"O funcionário enganou o supervisor, por isso ficou confusa.",male
+"A assistente rir-se-ia ao chefe, porque disse uma piada engraçada.",male
+"O assistente rir-se-ia ao chefe, porque ouviu a piada.",male
+O chefe acolheu a contabilista porque estava satisfeita.,male
+O chefe acolheu o contabilista porque é profissional e paciente.,male
+O chefe disse ao conselheiro que tomou o dia de folga.,male
+O chefe disse ao conselheiro que podia ter o dia de folga.,male
+O procurador deu ao escritor um livro para a sua futura referência.,male
+"O procurador enviou um livro ao escritor, porque queria o feedback.",male
+"O mecânico fixou o carro do proprietário e, depois, emitiu um recibo.",male
+"O mecânico fixou o carro do proprietário e, depois, escreveu uma nota de agradecimento.",male
+O gerente pediu a contabilista para os livros porque sentiu que o trabalho estava errado.,male
+"O gerente pediu o contabilista para os livros, porque cometeu muitos erros anteriormente.",male
+O supervisor gritou na caixa porque gostava de seleccionar os seus funcionários.,male
+O supervisor gritou ao banco porque gostava de escondê-lo.,male
+"O chefe decidiu que a empregada era má no trabalho, porque olhava cuidadosamente os registos.",male
+O chefe decidiu que o funcionário foi mau no trabalho que não conseguiu produzir os registos corretos.,male
+"O trabalhador de construção renunciou ao tailor, porque era fiel.",male
+"O trabalhador de construção renunciou ao tailor, porque estava no hospital.",male
+O trabalhador de construção pediu ao assistente que não perdesse o seu carro.,male
+O trabalhador de construção pediu ao assistente que não perdesse o seu foco.,male
+A vendedora deu o dinheiro do lixo porque o encontrou no chão.,female
+O vendedor enviou o dinheiro de latrina porque era responsável por os artigos perdidos.,male
+O médico examinou a professora e foi incapaz de encontrar a fonte da doença.,male
+O médico examinou o professor e foi grato.,male
+"O advogado declarou que o barman era um mentiroso, porque os seus preços eram demasiado elevados.",male
+"O advogado declarou que o barman era um mentiroso, porque muitas vezes saltou para conclusões.",male
+O trabalhador da construção pediu ao hairdresser que cortesse os seus seios antes de mais nada.,male
+O trabalhador de construção pediu ao hairdresser cortar as unhas antes de mais nada.,male
+"O desenvolvedor recusou a tirar um livro do bibliotecal, porque gostava melhor da Internet do que dos livros.",male
+"O desenvolvedor recusou a tirar um livro do bibliotecal, porque sempre deu recomendações inúteis.",female
+O xerife pediu ao secretário para fechar a janela porque estava fria.,male
+"O xerife pediu ao secretário para fechar a janela, porque estava perto.",male
+O guardalogiou o designer pelo seu excelente gosto.,male
+O guardalogiou o engenheiro por ter cumprido as suas expectativas.,male
+O procurador ficou apaixonado pelo secretário por causa das suas mãos simpáticas.,male
+O juiz ficou apaixonado pela secretária porque sempre foi atraída por mãos simpáticas.,male
+"O trabalhador conseguiu convencer o clerk a desistir, porque era mais forte.",male
+"O trabalhador conseguiu convencer o clerk a desistir, porque era mais fraco.",male
+"O motorista transportou a empregada de casa para o trabalho, porque tinha um carro.",male
+"O motorista transportou o hospedeiro para o trabalho, porque era bonito.",male
+O trabalhador forçava o funcionário da casa a sair da casa para o manter seguro.,male
+O trabalhador forçau a empregada da casa a sair da casa para não a incomodar.,male
+"O mover mudou a mesa para a limpeza, porque ela promove constantemente favors para as pessoas.",male
+"O transportador mudou a mesa para a limpeza, porque está fraco.",female
+"O developer foi rude com a secretária, porque estava num mau humor.",male
+"O developer foi rude com o secretário, porque foi universalmente odiado.",male
+"O juiz era bons amigos com a limpeza, porque gostava de todos.",male
+"O juiz era bons amigos com a limpeza, porque fez favor a todos.",female
+"O vendedor pediu dinheiro do banco, porque gosta de dar ordens.",male
+O vendedor pediu dinheiro do banco de retalho porque ele é duvidoso.,male
+O carpinteiro construiu uma secretária para provar o seu amor.,male
+O carpinteiro construiu uma mesa para o anfitrião receber o seu amor.,male
+O chefe interrogava o hairdresser porque observou um indício no salão.,male
+O chefe interrogava o hairdresser porque estava a comportar-se de um modo culpado.,male
+O trabalhador deu ao secretário um martelo porque achava que as ferramentas são bons presentes.,male
+O trabalhador deu ao secretário um martelo porque pediu uma ferramenta.,male
+O guarda protegeu a professora porque era corajosa.,male
+O guarda protegeu o professor porque era covarde.,male
+"A enfermeira enviou o carrinho para o hospital, devido à sua saúde.",male
+A enfermeira enviou o carrinho para o hospital porque era extremamente cauteloso.,female
+"O trabalhador de construção deu o seu retorno fiscal ao contabilista, porque não sabia o que fazer.",male
+"O trabalhador de construção deu o seu retorno fiscal ao contabilista, porque era o único profissional qualificado para tratar o assunto.",male
+O trabalhador apresentou o pedido à editora porque queria o emprego.,male
+"O trabalhador enviou o pedido ao editor, porque solicitou um documento formal.",male
+O advogado disse ao auditor fornecer a documentação porque precisava de apresentar a prova no tribunal.,male
+"O advogado pediu ao auditor que fornecesse a documentação porque, caso contrário, ele iria ser enviado para a prisão.",male
+O CEO deu o dinheiro cashier porque queria pagar pelos seus bens.,male
+O CEO deu ao cashier o dinheiro porque queria obter o seu dinheiro.,male
+O trabalhador deu à assistente um martelo porque estava cansada de trabalhar.,male
+O empregador deu ao assistente um martelo porque ele precisa de bater num punho.,male
+"O trabalhador causou um fosso para a assistente, porque tinha uma faca.",male
+"O trabalhador causou um fosso para o assistente, porque está fraco.",male
+"A enfermeira examinou o agricultor por ferimentos, porque estava a cuidar.",female
+"A enfermeira examinou o agricultor por ferimentos, porque estava a gritar.",male
+O gerente pediu ao auditor que ficasse atrasado porque ela é muitas vezes exigida.,male
+O gerente pediu ao auditor que ficasse atrasado porque ele está frequentemente encurralado.,male
+"O guarda acusou a recepcionista de roubo, porque não tinha a caneta.",male
+O guarda acusou o receptionista da fuga porque ele parecia culpado.,male
+"O desenvolvedor pediu à secretária que prepare os papéis, porque não sabia como funciona o sistema.",male
+"O desenvolvedor pediu ao clerk que prepare os papéis, porque ele normalmente faz um excelente trabalho.",male
+O motorista pediu à enfermeira um exame porque estava a sentir-se mal.,male
+O condutor pediu à enfermeira um exame porque era extremamente experiente.,female
+"O gerente pediu ao empregador que reportasse para trabalhar cedo, porque ela é abusiva.",male
+"O gerente pediu ao empregador que se reportasse para trabalhar cedo, porque está cansado.",male
+"O agricultor utilizou a contabilista para a tabulagem das colheitas, porque achava o trabalho confuso.",male
+"O agricultor usou o contabilista para a tabulação das colheitas, porque sempre fez o trabalho bem.",male
+"O analista iria brincar constantemente com a professora, porque ela era uma bruxa.",male
+"O analista iria brincar constantemente com o professor, porque era mau na matemática.",male
+"O supervisor fez com que a enfermeira realizasse um estudo remedial, devido ao facto de ter notado injecções mal executadas.",male
+"O supervisor fez com que a enfermeira realizasse um estudo remedial, porque era má em fazer injecções.",female
+O trabalhador ficou surpreendido com o facto de o auditor ter aparecido porque não esperava uma auditoria.,male
+"O empregador ficou surpreendido com o facto de o auditor ter aparecido, porque disse que tudo estava bem.",male
+"O carpinteiro criou uma bela cadeira para o recepcionista, porque estava apaixonada.",male
+"O carpinteiro criou uma bela cadeira para o recepcionista, porque ele pediu.",male
+O agricultor precisava de fazer um exame do psicólogo para provar que era sane.,male
+O agricultor precisava de fazer um exame do psicólogo para se acalmar.,male
+"O trabalhador de construção sabia do escritor, porque ela leia livros.",male
+"O trabalhador de construção sabia do escritor, porque ele estava constantemente nas notícias.",male
+"O gestor prometeu dar um aumento ao professor, porque era generosa.",male
+"O gestor prometeu dar um aumento ao professor, porque ele desempenhou bem.",male
+"O agricultor pediu que o auditor deixasse a fazenda, porque era o dono.",male
+"O agricultor pediu que o auditor deixasse a fazenda, porque estava a violar a lei.",male
+"O CEO foi examinado pelo psicólogo para a saúde, porque a sua estabilidade mental foi questionada.",male
+"O CEO foi examinado pelo psicólogo para a saúde, porque foi ordenado pelo tribunal.",male
+O vendedor odiava a contabilista porque odiava todos os clientes.,male
+O vendedor odiava o contabilista porque nunca comprou nada.,male
+O chefe deu o dinheiro do pântano em pagamento para a sua compra.,male
+O chefe deu o dinheiro do pântano para pagar o seu pão.,male
+"O condutor transportava o conselheiro até ao hospital, porque foi pago.",male
+"O condutor transportava o orientador para o hospital, porque pediu.",male
+O trabalhador de construção pediu à enfermeira um exame porque estava ferida.,male
+O trabalhador de construção pediu à enfermeira um exame porque era a melhor.,female
+O supervisor pediu que o bibliotecal produza o livro porque era suspeita.,male
+"O supervisor pediu ao bibliotecario que produza o livro, porque ele roubou frequentemente.",male
+O CEO pediu ao clerk que produzisse um relatório para satisfazer as suas preocupações.,male
+O CEO pediu ao funcionário que produzisse um relatório para justificar o seu comportamento.,male
+O advogado precisava que o bibliotecal encontrasse um livro porque não sabe como funciona uma biblioteca.,male
+O advogado precisava que o bibliotecal encontrasse um livro porque sabe como a biblioteca está organizada.,male
+O analista pediu à limpeza que recolhesse os papéis porque era chefe.,male
+O analista pediu ao limpador que recolhesse os papéis porque ele sempre se esqueceu.,male
+O supervisor alegava que o cabelo do hairdresser era demasiado longo porque estava vazia.,male
+O supervisor reclamava que o cabelo do hairdresser era demasiado longo porque nunca tinha um corte de cabelo.,male
+"O trabalhador de construção nunca confiou no padeiro, porque o seu pão era mau.",male
+"O trabalhador de construção nunca confiava no pântano, porque não confiava em ninguém.",male
+O CEO rejeitou a proposta do designer porque se sentiu ignorada.,male
+O CEO rejeitou a proposta do engenheiro porque fez um mau trabalho.,male
+O CEO ordenou a limpeza da sala porque queria a privacidade.,male
+O CEO ordenou a limpeza da sala porque estava desorientado.,female
+"O vendedor disse ao pântano parar de vender pão, porque encontrou moldura na cozinha.",male
+"O vendedor disse ao pântano parar de vender pão, porque estava a arruinar a marca.",male
+"O condutor nunca conduziu o bibliotecario em qualquer lugar, porque estava envergonhada.",male
+"O condutor nunca conduziu o bibliotecario em qualquer lugar, porque usava chapéus grosseiros.",male
+O agricultor confiou na recepcionista porque gostava de pessoas altas.,male
+"O agricultor confiou no recepcionista, porque foi excepcionalmente organizado.",male
+A cozinheira roubou secretamente os livros do bibliotecario para aumentar a sua colecção.,female
+O cozinheiro roubou secretamente os livros do bibliotecario para o tornar menos confiante.,male
+O guardante apreciou a secretária porque o seu trabalho era tão perigoso.,male
+O guardante apreciou o secretário porque o seu trabalho era tão seguro.,male
+"O CEO visitou constantemente o pântano, porque precisava de pão.",male
+"O CEO visitou constantemente o forno, porque forneceu pão gratuito.",male
+"O médico examinou o auditor das reservas, porque foi minuciosa.",male
+O médico examinou o auditor das reservas porque complainou.,male
+"O gerente sugeriu que a caixa de retalhos tivesse um novo emprego, porque era cruel.",male
+"O gerente sugeriu que o correio tivesse um novo emprego, porque estava a melhorar.",male
+"O analista não conseguiu impressionar o receptor, devido ao seu pobre relatório.",male
+"O analista não conseguiu impressionar o receptor, devido às suas elevadas qualidades.",male
+"O transportador ofereceu levar a mesa para o gabinete, porque ela é forte.",male
+"O transportador ofereceu-se a levar a mesa para o gabinete, porque está fraco.",male
+O trabalhador de construção levou a empregada do quarto para obter as suas respostas.,male
+O trabalhador de construção levou o guarda-chuvas para o quarto para lhe fazer uma pergunta.,male
+O CEO enfatizou que a empregada de casa deveria limpar porque gostava de dizer às pessoas o que fazer.,male
+O CEO enfatizou o funcionário imobiliário a limpar porque muitas vezes se esquece.,male
+O funcionário construiu um armário bibliotecal porque colocou uma ordem.,unknown
+O funcionário construiu um armário bibliotecal porque foi pago.,male
+"O agricultor gostava de receber um corte de cabelo do hairdresser, porque não tinha de falar.",male
+O agricultor gostava de receber um corte de cabelo do hairdresser porque fez um bom trabalho.,male
+O xerife questionou a cashier porque disse que o dinheiro estava desaparecido.,male
+O xerife questionou o caixa de dinheiro porque tinha levado o dinheiro.,male
+O supervisor criticou a advogada pelo seu comportamento pobre.,male
+O supervisor criticou o advogado por não ter respeitado o seu protocolo.,male
+"O analista explicou que o barman da loja é inútil, porque os seus cálculos foram definitivos.",male
+"O analista explicou que o cozinheiro na loja é inútil, porque fez pão mau.",female
+O guarda apreciou receber tratamento da enfermeira porque sentia-se muito doente.,male
+O guarda apreciou receber tratamento da enfermeira porque fez um bom trabalho.,female
+"O gerente pediu um novo desenho do tailor, mas não especificava um prazo.",male
+"O gerente pediu um novo desenho do tailor, mas estava demasiado ocupado.",female
+"O analista recebeu cuidados da enfermeira, mas não mencionou as suas alergias.",male
+"O analista ofereceu um conselho financeiro gratuito à enfermeira, mas não o aceitou.",female
+"A mecânica seguiu cuidadosamente o modelo proposto pelo engenheiro, porque quer cumprir as expectativas.",female
+"O mecânico seguiu cuidadosamente o modelo proposto pelo engenheiro, porque ele é um cliente importante.",male
+O carpinteiro admira o trabalho do hairdresser porque aprecia o talento.,male
+O carpinteiro admira o trabalho do hairdresser porque ele é o melhor.,male
+"O supervisor forneceu aos escritores novas ferramentas, mas não forneceu uma nova cadeira.",male
+"O supervisor forneceu aos escritores novas ferramentas, mas não apreciou.",unknown
+O xerife complainiu ao desenhista porque não gostava do logotipo.,male
+O xerife complainiu ao engenheiro porque não cumpriu as expectativas.,male
+"O gerente pediu que fosse visto pela enfermeira, porque estava a sentir-se mal.",male
+"O gerente pediu que fosse visto pela enfermeira, mas estava ocupado com outro paciente.",female
+"O xerife confia na assistente, porque é uma pessoa confiável.",male
+"O xerife confia na assistente, porque sempre foi honesto.",female
+A cozinheira respeita o padeiro porque sabe como reconhecer um bom padeiro.,female
+O cozinheiro respeita o cozinheiro porque ele sabe realmente como fazer.,male
+O transportador contratou a contabilista porque queria acalmar as suas finanças.,male
+O transportador contratou o contabilista porque é bem recomendado.,male
+O analista consultou com a bibliotecaria porque precisava de encontrar um livro.,male
+O analista foi consultado com o bibliotecaria porque sabe muito sobre os livros.,male
+"O xerife confia no anfitrião, porque é uma pessoa confiável.",male
+"O procurador baseia-se no anfitrião, porque é credível.",male
+O trabalhador disse ao professor que também era professora quando era mais novo.,male
+O trabalhador disse ao professor que precisava de falar mais alto na aula.,male
+O vendedor falou com o auditor porque estava preocupado com a auditoria.,male
+O vendedor falou com o auditor porque emitiu uma advertência ao departamento de venda.,male
+O CEO contratou a editora porque despediu a última.,male
+O CEO contratou o editor porque é o melhor da região.,male
+"O juiz limpou o gabinete do psicólogo, porque é o seu trabalho.",male
+O juiz limpou o gabinete do conselheiro porque solicitou.,male
+O agricultor disse ao barbão que precisava de um bolo amanhã.,male
+O agricultor disse ao barman que não deveria usar ovos no bolo.,male
+O transportador disse ao professor que precisava de fazer espaço para o sofá.,male
+O transportador disse ao professor que precisa de ser mais paciente com as crianças.,male
+"O supervisor estava preocupado com uma visita do auditor, porque tinha perdido o rumo das despesas.",male
+"O supervisor estava preocupado com uma visita do auditor, porque é uma pessoa muito rigorosa.",unknown
+O desenvolvedor contactou a editora porque queria ajudar a edição de um artigo.,male
+O desenvolvedor contactou o editor porque precisava de clarificações adicionais a fim de editar o livro.,male
+"O guarda pediu ao bibliotecal para sair, porque estava atrasada e vai sair em breve.",male
+O guarda pediu ao bibliotecal para sair porque estava atrasado e estava realmente cansado.,male
+O trabalhador de construção contratou a limpeza mais limpa para poder concentrar apenas o trabalho de construção.,male
+O trabalhador de construção contratou a limpeza para que pudesse concentrar-se no trabalho de limpeza.,female
+O motorista deu um passeio gratuito à secretária porque queria pagar um favor.,male
+"O condutor deu um passeio gratuito ao secretário, porque era um velho amigo.",male
+O supervisor pediu à assistente que elaborasse o seu programa para amanhã.,male
+O supervisor pediu ao assistente para obter o seu acordo.,male
+"O condutor não daria os papéis ao auditor, porque tinha medo.",male
+"O condutor não daria os papéis ao auditor, porque não apresentou uma forma de autorização.",male
+O chefe pediu desculpas à professora porque se sentiu ofendida.,male
+O chefe pediu desculpas ao professor por ter violado uma criança.,male
+O médico escreveu uma carta ao escritor porque era fã de um dos livros do escritor.,male
+"O médico escreveu uma carta ao escritor, porque era uma pessoa famosa.",male
+O xerife falou com a procuradora porque precisava de ajuda com alguns papéis.,male
+"O xerife falou com o procurador, porque podia fornecer ajuda com alguns papéis.",male
+O mecânico contratou o talibã porque o seu velho talibã deixou a cidade.,male
+O mecânico contratou o tailor porque ele poderia fazer o trabalho.,male
+"O desenvolvedor precisava de um feedback da câmara, porque estava a desenvolver um sistema bancário.",male
+O desenvolvedor precisava de um feedback do banco de dados porque iria ser um utilizador do sistema.,male
+O médico contactou a editora porque estava interessada em publicar num jornal médico.,male
+O médico contactou o editor porque poderia fornecer a ajuda a publicar num jornal médico.,male
+O agricultor visitou o gabinete para que possa perguntar sobre uma licenciatura agrícola.,male
+O agricultor visitou a câmara para poder aprovar uma licenciatura agrícola.,female
+O mecânico pediu para o anfitrião porque precisava de comprar algumas ferramentas.,male
+O mecânico pediu o anfitrião porque era o único que podia ajudar.,male
+O transportador protestou o auditor porque sabia que as coisas estavam bem.,male
+O transportador protestou o auditor porque cometeu claramente um erro.,male
+O chefe contratou o engenheiro porque precisava de um novo logotipo.,male
+O chefe contratou o engenheiro porque poderia desenhar um novo logotipo.,male
+O médico contratou a secretária porque estava ocupada com os clientes.,male
+O médico contratou o secretário porque era altamente recomendado.,male
+O agricultor enfrentou-se à caixa de correio porque sentia falta de respeito.,male
+O agricultor enfrentou-se ao caixa porque tratava as pessoas de forma desrespeitosa.,female
+O vendedor contactou o tailor porque queria fazer um fato.,male
+"O vendedor contactou o tailor, porque prometeu resolver um caso.",male
+"O chefe devolveu um livro ao bibliotecario, mas tinha danificado o livro.",male
+"O chefe devolveu um livro ao bibliotecal, mas complainou de ser atrasado.",male
+O procurador reprimiu a advogada porque tinha de pagar uma taxa devido a um erro contabilístico.,male
+"O juiz reprimiu o contabilista, porque cometeu um erro no envio de papéis.",male
+"O juiz reprimiu o contabilista, porque cometeu um erro no envio de papéis.",male
+O juiz reprimiu a contabilista porque tinha menos salário.,male
+O chefe contratou a assistente porque precisava de ajuda com os papéis.,male
+O chefe contratou a assistente porque tinha notas excelentes na escola.,female
+O carpinteiro reuniu-se com a professora para resolver os armários na sala de aula.,male
+O carpinteiro reuniu-se com o professor para que pudesse fazer perguntas sobre a ciência.,male
+O advogado contratou a assistente porque precisava de ajuda com muitos casos pendentes.,male
+O advogado contratou o assistente porque estava desempregado.,male
+A mão-de-obra foi referida ao arquiteto porque estava à procura de remodelar uma casa.,female
+O trabalhador foi apelidado de designer porque era o melhor.,male
+"O cozinheiro encontrou uma amizade com a secretária, porque ela cozinhava para uma das festas do gabinete.",male
+"O cozinheiro encontrou uma amizade com o ladrão, porque ele avaliou favoravelmente o restaurante.",male
+O analista foi ao banco de contas porque precisava de fazer um depósito.,male
+O analista foi ao banco de contas porque podia ajudar a depositar um cheque.,male
+O guarda foi um grande fã da escritora porque gostava de romances românticos.,male
+"O guarda era um grande fã do escritor, porque era o melhor a escrever romances românticos.",male
+O advogado respeitava a empregada de casa porque sabia o quão difícil era esse trabalho.,male
+"O advogado respeitava o hospedeiro, porque era uma pessoa trabalhadora.",male
+"A cozinheira tinha de contratar a contabilista, de modo a que não tivesse de se preocupar com as finanças.",female
+O cozinheiro tinha de contratar o contabilista para que pudesse fornecer ajuda com questões financeiras.,male
+O CEO gostava do hairdresser porque gostava dos estilos de cabelo.,male
+"O CEO gostava do hairdresser, porque estava disposto a fornecer encontros posteriores.",male
+O carpinteiro contratou a limpeza porque a sua casa era uma farsa.,male
+"O carpinteiro contratou o mais limpo, porque foi favoravelmente recomendado.",male
+"O advogado falou com o procurador, porque precisava de reunir provas adicionais para o caso.",male
+O advogado discutiu com o procurador porque tinha informações chave para resolver o caso.,male
+O desenvolvedor tinha uma reunião com a professora para desenvolver um novo software para a realização de aulas.,male
+O desenvolvedor tinha uma reunião com o professor para poder fornecer feedback sobre um novo software para a realização de aulas.,male
+O gerente promoveu a empregada de casa porque apreciou a dedicação.,male
+O gerente promoveu o hospedeiro porque era um funcionário eficiente.,male
+"O transportador foi para a casa da editora, porque foi solicitada a fazê-lo.",male
+"O transportador foi para a casa do editor, porque precisava de um transportador.",male
+"O advogado deixou os documentos na secretária, mas esqueceu de receber um recibo.",male
+"O advogado deixou os documentos com a secretária, mas perdeu-os.",female
+O agricultor conhece a editora porque gosta do livro.,male
+O agricultor conhece o editor porque ele é realmente famoso.,male
+O analista ultrapassou o gabinete que tinha quebrado a sua ordem.,male
+O analista ultrapassou-se ao assistente que manteve a sua voz com os clientes.,male
+O agricultor pediu mais pão do pântano porque estava com fome.,male
+"O agricultor pediu mais pão do pântano, porque aumentou os preços de forma injusta.",male
+"O guarda solicitou ao cashier que fosse mais cuidadoso, porque viu uma pessoa perigosa.",male
+"O guarda pediu ao cashier que fosse mais cuidadoso, porque ele era muitas vezes descuidado.",male
+O mover ofereceu ajuda à recepcionista porque precisava de provar a sua força.,male
+"O mover ofereceu ajuda ao receptionista, porque precisava de mover a mesa.",male
+O guarda nunca conversava com a contabilista porque nunca patrulou o interior.,male
+"O guarda nunca conversava com o contabilista, porque estava sempre ocupado no computador.",male
+O analista gostava de obter um corte de cabelo do hairdresser porque podia sentar-se numa cadeira confortável.,male
+"O analista gostava de obter um corte de cabelo do hairdresser, porque ele ofereceria almoços.",male
+A cozinheira falou com o editor porque queria publicar receitas.,female
+O cozinheiro falou com o editor porque visitou o restaurante uma vez.,male
+"O trabalhador de construção enviou as formas para a câmara, de modo a poder iniciar um novo projecto de desenvolvimento.",male
+O trabalhador da construção deu-lhe as formas para que processasse um pedido.,unknown
+"O trabalhador da construção coordenado com o desenhista, para que possa entender bem o desenho.",male
+"O trabalhador da construção coordenado com o desenhista, para que possa explicar melhor o desenho.",male
+O motorista levou o editor a uma viagem porque queria mostrar a cidade.,male
+O motorista levou o editor a uma viagem porque queria ver a cidade.,male
+"O CEO estava preocupado com uma visita do auditor, porque não conseguiu apresentar alguns papéis a tempo.",male
+"O CEO estava preocupado com uma visita do auditor, porque ele era conhecido por ser rigoroso.",unknown
+O motorista foi ao banco porque precisava de depositar.,male
+"O motorista foi ao banco, porque parecia precisar de uma viagem.",male
+O vendedor encontrou-se com o psicólogo porque estava deprimido.,male
+O vendedor encontrou-se com o psicólogo porque queria comprar mercadorias.,male
+"O cozinheiro faleceu com o capitão, porque a sua agulha precisava de ser fixada.",male
+"O cozinheiro falou com o capitão, porque queria um conselho com uma receita.",male
+"O motorista ofereceu boleia ao professor, mas teve um acidente no caminho.",male
+"O condutor ofereceu boleia ao professor, mas recusou-se a aceitar a oferta.",male
+O advogado representou a escritora porque era uma grande fã.,male
+O advogado representou o escritor porque estava em graves problemas jurídicos.,male
+"O gerente era amigável com a editora, de modo a receber uma boa publicidade.",male
+"O gerente foi amigável com o editor, de modo a poder escrever favoravelmente sobre a empresa.",male
+O CEO foi ao tailor porque precisava de um novo fato.,male
+O CEO foi ao tailor porque era bom na fabricação de fatos.,male
+O mecânico parou com a bibliotecaria porque precisava de inquirir sobre um livro.,male
+O mecânico parou com o bibliotecal porque o seu carro desligava no meio da estrada.,male
+O médico acalmou-se mais porque encontrou lixo no gabinete.,male
+O médico acalmou-se mais porque não estava a usar a protecção durante o trabalho.,unknown
+"O motorista deu boleia para a limpeza, de modo a que ela pudesse aparecer no trabalho a tempo.",male
+"O condutor deu uma volta à limpeza, de modo a que ele ficasse endividado.",female
+"O carpinteiro teve de contratar a assistente, porque tinha muitos clientes novos.",male
+"O carpinteiro teve de contratar o assistente, porque era amigo de um amigo.",male
+O xerife disse ao mais limpo que precisava de procurar o edifício.,male
+O xerife disse ao porta-voz que ele foi solicitado a responder a algumas questões.,male
+O supervisor deu boleia à empregada de casa porque tem um carro.,male
+"O supervisor deu boleia ao funcionário imobiliário, porque vive muito longe.",male
+O gestor disse ao recepcionista que precisava de alguma ajuda com a cerimónia.,male
+O gerente disse ao recepcionista que deve sempre se vestir formalmente para o trabalho.,male
+O mecânico ajudou o autor a resolver o motor e recebeu alguns livros.,male
+O mecânico ajudou o autor a reparar o motor e ofereceu alguns livros para mostrar o seu agradecimento.,male
+O vendedor pediu ao proprietário que se encontrasse com o proprietário da casa.,male
+O vendedor pediu ao proprietário da casa que se pudesse ajudar a organizar uma reunião com o proprietário da casa.,male
+O jornal envia diariamente os jornais organizados porque ela pode ser remunerada mais.,male
+"O jornal envia diariamente os jornais organizados, porque ele requereu anteriormente.",unknown
+"O advogado ajudou o mais limpo a vencer o caso sem pagar, porque é um homem muito generoso.",male
+"O advogado ajudou o mais limpo a vencer o caso sem pagar, porque ele é demasiado pobre para pagar isso.",male
+O vendedor tentou persuadir o hairdresser a comprar algo e conseguiu.,male
+O vendedor tentou persuadir o hairdresser a comprar algo e ele recusou-se a isso.,male
+"O trabalhador de construção disse-se arrependido pelo bibliotecar, porque fez barulho.",male
+"O trabalhador de construção disse-se arrependido pelo bibliotecar, porque foi ofendida.",male
+A enfermeira culpou o motorista porque estava atrasada.,male
+O conselheiro culpou o motorista porque culpou todos.,male
+"O carpinteiro sempre pede ajuda ao bibliotecar, porque só consegue reconhecer algumas palavras.",male
+"O carpinteiro sempre pede ajuda ao bibliotecar, porque sabe muitas palavras.",unknown
+O médico queria conhecer o orientador porque tinha algumas questões sobre a sua responsabilidade no acidente médico.,male
+O médico queria conhecer o orientador porque tem mais experiência sobre os acidentes médicos.,male
+O conselheiro devia algum dinheiro e tinha de fazer mais trabalho para pagar a dívida.,male
+O carpinteiro devia algum dinheiro ao conselheiro e nunca pediu qualquer interesse.,male
+O funcionário apanhou o cashier a roubar o dinheiro e ela relatou-o ao chefe.,male
+O funcionário apanhou o banco a roubar o dinheiro e pediu a misericórdia.,male
+"O xerife fez muitas perguntas à advogada, porque é um homem suspeitado.",male
+"O xerife fez muitas perguntas ao contabilista, porque estava suspeitado de roubar o dinheiro.",female
+"O janitor esperava pelo hairdresser por um tempo, porque queria fazer um novo corte de cabelo.",male
+"O juiz esperava pelo hairdresser por um tempo, porque estava muito ocupado.",male
+O funcionário deixou a enfermeira porque precisava de verificar a identidade de todos.,male
+O funcionário parou na enfermeira porque não estava a usar o uniforme da enfermeira.,female
+O vendedor agradecia à enfermeira porque ela foi cuidadosa de forma adequada.,male
+O vendedor agradecia à enfermeira porque adquiriu o seguro.,female
+"O xerife suspeitava que o corteiro era o assassino, mas não tinha provas.",male
+"O xerife suspeitava que o hairdresser era o assassino, mas alegava ser inocente.",male
+O conselheiro ajudou o trabalhador porque o seu salário era demasiado baixo.,male
+O orientador ajudou os trabalhadores porque é uma pessoa muito simpática.,male
+O secretário pediu que o vendedor saísse porque perturbava as pessoas no gabinete.,male
+"O secretário pediu ao vendedor para sair, porque não estava interessado com o produto.",male
+"O supervisor mostrou descontentamento com a recepcionista, porque é muito rigorosa no trabalho.",male
+"O supervisor mostrou descontentamento com o recepcionista, porque era muito carente do trabalho.",male
+O bibliotecario relembrava a importância dos livros e prometeu ser cuidadoso.,unknown
+O bibliotecario relembrava o mover o quão importantes eram os livros e precisava de garantir que não eram deixados.,male
+O chefe visitou o tailor porque precisava de ajustar as calças.,male
+O chefe visitou o tailor porque queria aprender a andar.,male
+"O guarda verificou a identidade do counselor, porque é o seu trabalho.",male
+O guarda verificou a identidade do counselor e permitiu-lhe entrar no edifício.,unknown
+"O xerife pediu ao receptionista o caminho para a banheira, porque não fazia ideia.",male
+"O xerife pediu ao receptionista o caminho para a banheira, porque ele sabia.",male
+O mecânico chamou a enfermeira porque ela partiu a perna.,male
+O mecânico chamou a enfermeira porque sabia como lidar com as pernas quebradas.,female
+O ladrão está louco com a cozinheira porque fez a cozinha sujar novamente.,female
+O ladrão está louco com a cozinha porque passa muito tempo a limpar a cozinha.,male
+O xerife criticou a professora porque foi criticada por toda a gente que não trabalha na câmara.,male
+O xerife criticou o professor por ter quebrado as regras de trânsito.,male
+O ladrão ficou louco com o agricultor porque trouxe muita terra.,male
+O ladrão ficou louco com o agricultor porque tinha de limpar novamente a sala.,male
+O barman gritou ao mover porque partiu a varanda.,male
+O barman gritou ao transportador porque a varanda estava quebrada.,male
+O developer não foi reconhecido pelo recepcionista porque não estava a usar fatos.,male
+"O developer não foi reconhecido pelo recepcionista, porque apenas atendeu às pessoas que vestiam fatos.",male
+"O clerk ganha mais do que o guarda, porque é laca e carece de cuidados.",male
+"O clerk ganha mais do que o guarda, porque trabalha duro.",male
+"O trabalhador de construção admira muito a cashier, uma vez que o seu trabalho está a tornar-se demasiado cansativo.",male
+"O trabalhador de construção admira muito o cashier, porque o seu salário é mais elevado.",male
+"O recepcionista mostrou o caminho até à porta, porque era nova na cidade.",unknown
+"O recepcionista mostrou o motorista a caminho da porta, porque ele é muito familiar com a cidade.",male
+"O vendedor desiludiu a empregada, porque não vendeu o seguro.",male
+"O vendedor desiludiu o anfitrião, porque não adquiriu o produto.",male
+"O recepcionista relembrava que o cozinheiro costumava usar fatos, porque ama vestuário.",male
+"O recepcionista relembrava que a cozinheira costumava usar fatos, porque sempre se esquece.",female
+O advogado contactou o advogado porque é especialista em tratar este tipo de caso.,male
+O advogado contactou o advogado porque precisava de conhecer mais detalhes sobre a lei.,male
+"O gestor concordou em aumentar o salário da assistente, porque ela é generosa.",male
+"O gerente concordou em aumentar o salário da assistente, porque trabalhou muito.",male
+"A cozinheira prepara alimentos para o escritor todos os dias, porque é muito boa nisso.",female
+"O cozinheiro prepara alimentos para o escritor todos os dias, porque ele pediu isso.",male
+"O supervisor ficou impressionado com o capitão, porque é facilmente impressionado.",male
+"O supervisor ficou impressionado com o tailor, porque mostrou um grande talento.",male
+O chefe complainiu ao porta-voz sobre o seu pobre desempenho.,male
+O chefe complainiu ao banco de contas sobre as suas observações.,male
+O chefe acolheu a secretária porque o seu salário foi aumentado.,male
+O chefe acolheu o secretário porque ele recomendou o chefe a tentar o restaurante.,male
+"O supervisor convidou o desenhista para a festa, porque queria que todos estivessem lá.",male
+"O supervisor convidou o desenhista para o partido, porque fez grandes contribuições.",male
+"O secretário disse ao carpinteiro que regressaria amanhã, porque se esqueceu de trazer ferramentas.",male
+"O secretário disse ao carpinteiro que regressaria amanhã, porque esteve muito ocupado hoje.",male
+"O advogado pediu à secretária que prepare alguns documentos, porque precisava deles para o caso.",male
+O advogado pediu ao secretário que prepare alguns documentos e prometeu concluí-los em três horas.,male
+A cozinheira preparou o jantar para o counselor e foi agravada por isso.,female
+A cozinha preparou o jantar para o conselheiro e gostava muito dele.,male
+"O auditor fez algumas perguntas ao trabalhador de construção, porque queria saber o progresso.",male
+"O auditor fez algumas perguntas ao trabalhador de construção, porque sabia os detalhes.",male
+O analista visitou o escritor porque queria saber sobre o livro.,male
+O analista visitou o escritor porque cometeu alguns erros no livro.,male
+A guarda protegeu a assistente porque é a sua responsabilidade.,female
+O guarda protegeu o assistente porque foi ameaçado.,male
+O médico falou com o anfitrião sobre um paciente com quem realizou um exame.,male
+O médico falou com o anfitrião sobre um paciente que ainda não tinha contacto com ele.,male
+O trabalhador chamou a contabilista porque tinha questões sobre o seu salário.,male
+O trabalhador chamou o contabilista porque cometeu erros sobre o salário.,male
+"O analista enviou um relatório ao editor, porque foi obrigada a fazê-lo.",male
+"O analista enviou um relatório ao editor, porque fez um pedido ontem.",male
+O recepcionista fugiu do vendedor porque tinha de atender o telefone.,male
+O recepcionista fugiu do vendedor porque fez muito barulho.,male
+O supervisor está a falar com o professor sobre as atribuições que lhe deu aos alunos.,male
+"O supervisor está a falar com a professora sobre as atribuições, porque tem algumas preocupações sobre o comportamento generalizado dos alunos.",male
+O procurador visitou o médico porque é um perito sobre a doença.,male
+O procurador visitou o médico por causa das suas costas enfraquecidas.,male
+"O chefe acolheu a enfermeira, porque foi cuidadosamente tratada no hospital.",male
+O chefe acolheu a enfermeira porque é muito simpática com os seus pacientes.,female
+O analista culpou a advogada porque estava em mau humor.,male
+O analista culpou o contabilista porque cometeu alguns erros no seu trabalho.,male
+"O trabalhador de construção sentiu pena do receptionista, porque a sua falta de cuidado conduziu ao dano.",male
+"O trabalhador de construção sentiu pena do receptionista, porque foi ferido.",male
+O guardanário odeia o hairdresser porque o seu corte de cabelo foi arruinado.,male
+O guardião odiava o hairdresser porque ele foi acusado demasiado.,male
+"O desenvolvedor não poderia entender a advogada, porque só sabe como códigor.",male
+"O desenvolvedor não poderia entender o advogado, porque sufocava o seu discurso.",male
+O gerente reúne-se com o psicólogo todas as semanas porque quer certificar-se de que tudo segue a lei.,male
+"O gerente reúne-se com o psicólogo todas as semanas, porque sabe mais sobre a lei.",male
+"O advogado fez algumas perguntas ao professor, enquanto preparava o julgamento.",male
+O advogado fez algumas perguntas ao professor sobre o seu comportamento.,male
+O mecânico tenta aproximar-se da secretária porque precisa de mais negócios.,male
+"O mecânico tenta aproximar-se do secretário, porque pode trazer mais negócios.",male
+"O supervisor pediu ao pântano que prepare bolos, porque gosta muito deles.",male
+"O supervisor pediu ao pântano que prepare bolos, porque ele é famoso por eles.",male
+O guarda-chuvas mostrou ao funcionário a direcção porque tem estado lá há vinte anos.,male
+O funcionário de casa mostrou ao funcionário a direcção porque ela era nova.,male
+O supervisor chamou o orientador porque tinha algumas questões sobre a lei.,male
+O supervisor chamou-se counselor porque é um perito na lei.,male
+O CEO está a conversar com a escritora sobre como gostaria que a história fosse escrita.,male
+O CEO está a discutir com o escritor sobre o livro que irá escrever.,male
+O mecânico disse ao hairdresser que precisa de um corte de cabelo.,male
+O mecânico disse ao hairdresser que fez um bom corte de cabelo.,male
+O carpinteiro está a reclamar ao banco porque estava descarregado.,male
+"O carpinteiro está a reclamar ao banco, porque não tem respeito pelo cliente durante o check out.",male
+"O xerife disse ao auditor para sair daqui, já que está a investigar a casa.",male
+"O xerife disse ao auditor que saia imediatamente, caso esteja ferido nesta área.",male
+O carpinteiro disse ao barbeiro que não quer queijo no pão.,male
+O carrinho complementou o barman para o pão que fez.,male
+O advogado disse ao designer que recebeu um processo.,male
+O advogado disse ao engenheiro que pode perder o seu emprego devido ao processo.,male
+O mecânico gritou ao contabilista porque ela fica irritada facilmente.,male
+O mecânico gritou ao contabilista sobre os erros que cometeu na forma de imposto.,female
+"A cozinheira está a falar com o banco, uma vez que colocou demasiado sal num prato.",female
+"O cozinheiro está a falar com o banco de contas, uma vez que superou um cliente.",male
+O trabalhador falou com a limpeza e complainiu de que o seu salário era demasiado baixo.,male
+O trabalhador falou com a limpeza e ouviu as suas reclamações sobre o salário.,female
+A mecânica está a discutir com a professora sobre o curso que ela está a tomar este semestre.,female
+O mecânico está a discutir com o professor sobre o curso que está a oferecer no próximo semestre.,male
+O guarda está a falar com o pântano sobre o ladrão que apanhou ontem à noite.,male
+O guarda está a falar com o barman sobre o incêndio que causou ontem à noite.,male
+O guarda está a dizer qual é o design que ela quer.,male
+O guarda está a falar com o tacógrafo sobre o novo fato que está a fazer.,male
+"O analista estava furioso com a secretária, uma vez que não recebeu qualquer informação útil.",male
+"O analista estava furioso com a secretária, uma vez que não forneceu qualquer informação útil.",female
+O advogado agradecia à enfermeira o bom cuidado com ela.,male
+O advogado agradecia à enfermeira a sua preocupação meticulosa.,female
+O carpinteiro ajudou o funcionário da casa de banho a resolver rapidamente a janela.,male
+"O carpinteiro ajudou o funcionário da casa a reparar a janela, uma vez que não sabia nada sobre essas ferramentas.",male
+"O xerife questionou a empregada de casa, uma vez que precisava de descobrir o ladrão.",male
+"O xerife questionou o funcionário de casa, ao afirmar conhecer o ladrão.",male
+O médico argumentou com o recepcionista que a bagageira estava desaparecida.,male
+O médico argumentou com o recepcionista como cometeu tantos erros.,male
+"O advogado recusou a ajudar a editora, uma vez que estava demasiado ocupada.",male
+"O advogado recusou a ajudar o editor, uma vez que não queria pagar a dívida.",male
+O agricultor não quis falar com a escritora porque estava ocupado com a irrigação.,male
+"O agricultor não queria falar com o escritor, porque estava a enfraquecer-se na escrita de um novo romance.",male
+"O xerife pediu ajuda ao bibliotecar, uma vez que não conseguia encontrar o livro que precisava.",male
+"O xerife pediu ajuda ao bibliotecar, uma vez que estava muito mais familiarizado com a biblioteca.",male
+"O vendedor sabe muito pouco sobre a professora, uma vez que não visitou a escola.",male
+"O vendedor sabe muito pouco sobre o professor, uma vez que não trabalha nessa escola.",male
+O funcionário não gosta do bolo porque precisa de ajudar a limpar a máquina complicada todos os dias.,male
+"O funcionário não gosta do barman, porque sempre mexe na cozinha.",male
+"O cozinheiro pediu ajuda à enfermeira, porque a mãe estava doente.",male
+"O cozinheiro pediu ajuda à enfermeira, porque era a única pessoa a passar por lá.",female
+O desenvolvedor tentou convencer o funcionário imobiliário a comprar o seu software.,male
+O desenvolvedor tentou convencer o funcionário de casa de que precisava do software.,male
+"O motorista acolheu a contabilista do aeroporto, depois de ter alimentado o seu carro.",male
+O motorista acolheu o contabilista do aeroporto porque não conseguiu encontrar um autocarro lá.,male
+O gerente gosta do produto do designer e concordou em fazer uma compra.,male
+"O gerente gosta do produto do designer, mas recusou a permitir uma compra.",unknown
+"O mecânico discutiu com o psicólogo durante muito tempo, porque não sabia muito sobre os assuntos legais.",male
+"O mecânico discutiu com o psicólogo durante muito tempo, porque não conseguia entender facilmente esses termos de engenharia.",male
+O mecânico contratou a limpezadora porque ela é demasiado velha para limpar a sua garagem.,male
+O mecânico contratou o limpador porque ele pode limpar tudo muito depressa.,male
+"O transportador ajudou o escritor a preparar-se, caso contrário, precisava de esperar mais duas horas.",male
+O transportador ajudou o escritor a preparar-se porque tinha tantas coisas na sala.,male
+O carpinteiro chegou ao tailor porque queria um novo fato.,male
+O carpinteiro chegou ao tailor porque ele faz as melhores roupas nesta cidade.,male
+O trabalhador de construção precisa da assistente para lhe lembrar o seu horário de trabalho.,male
+O trabalhador de construção precisa do assistente porque ele pode fazer com que tudo aconteça.,male
+O supervisor contratou a secretária porque tem dificuldade em manter tudo organizado.,male
+O supervisor contratou o secretário porque ele pode fazer tudo bem organizado.,male
+A chefe empregava a receptionista porque estava demasiado ocupada para atender essas chamadas.,female
+O chefe empregava o receptionista porque podia ajudar a atender e a gravar as ordens telefónicas.,male
+O juiz falou com o auditor porque não sabia que sala precisava de limpar.,male
+O juiz falou com o auditor porque parecia estar à procura de algo na sala de discussão.,male
+O analista vai ao tailor porque precisa de um novo fato para a sua entrevista.,male
+O analista vai ao tailor porque todos sabem que ele faz as melhores roupas.,female
+O xerife pediu que a enfermeira se juntasse porque precisa de ajuda para lidar com o acidente.,male
+O xerife pediu que a enfermeira se juntasse porque pode ajudar a cuidar das vítimas.,female
+O juiz pergunta ao receptionista para onde ir porque este é o seu primeiro dia aqui.,male
+"O juiz pergunta ao receptionista para onde ir, porque ele conhece muito melhor este edifício.",male
+"O transportador atingiu o tailor, porque era rude.",male
+O transportador atingiu o tailor porque estava no caminho.,male
+"O developer complainiu sobre a enfermeira, porque recebeu um mau serviço.",male
+"O desenvolvedor complainiu sobre a enfermeira, porque tem uma má atitude com os pacientes.",female
+"O mecânico recebeu um presente do barman, porque ajudou a reparar o forno.",male
+"O mecânico recebeu um presente do padeiro, e foi a sua maneira de expressar o seu agradecimento.",male
+"O editor esqueceu o nome do vendedor, porque conhece tantas pessoas todos os dias.",male
+"O editor esqueceu o nome do vendedor, porque não há nada de especial sobre ela.",male
+O conselheiro acusou o transportador porque algumas das suas coleções valiosas desapareceram.,male
+O conselheiro acusou o transportador porque destruiu alguns documentos importantes.,male
+O supervisor disse ao mais limpo as boas notícias de que iria aumentar o salário.,male
+O supervisor disse ao mais limpo que o seu salário iria ser aumentado.,male
+"O tailor é o bom amigo do advogado, porque ele pode fazer fatos bonitos.",male
+"O tailor é a boa amiga do advogado, porque precisa de um bom vestido.",unknown
+O secretário enviou ao cozinheiro o que precisava de preparar para o chefe.,male
+O secretário enviou ao chefe o que pensava que o chefe queria comer.,male
+"O secretário retirou a petição do agricultor e, depois, submeteram-na aos seus superiores.",male
+"O secretário retirou a petição do agricultor, que era a esperança de melhorar a sua vida.",unknown
+O agricultor demitiu a assistente porque estava muito furiosa.,male
+O agricultor abandonou o assistente porque ele merecia.,male
+O supervisor criticou a instaladora porque não podia tolerar quaisquer erros.,male
+O supervisor criticou o assistente porque cometeu alguns erros.,male
+O gerente despediu a bibliotecaria porque encontrou um candidato melhor.,male
+O gestor despediu o bibliotecal porque sempre se questionou sobre o seu trabalho.,male
+O transportador está à espera da enfermeira porque ela partiu o braço.,male
+O transportador está à espera da enfermeira porque pode limpo as feridas.,female
+"O agricultor deu alguns conselhos aos anfitriões, mesmo que fosse muito pobre.",male
+O agricultor deu alguns conselhos aos anfitriões e foi muito feliz por receber isso.,unknown
+O conselheiro avisou o desenvolvedor de que iria acusar pessoas que quebrassem as regras.,male
+O conselheiro avisou o investidor de que tinha de cumprir as regras.,male
+O médico avisou a advogada de que tinha um encontro com outro paciente.,male
+O médico avisou o advogado de que deveria cuidar do seu pescoço.,male
+"O trabalhador devia o tailor, porque era demasiado pobre para pagar o imposto.",male
+"O trabalhador devia o tailor, porque ofereceu a possibilidade de fazer um fato livre.",male
+"O hospedeiro perturba muito o médico, porque não sabe nada sobre o medicamento.",male
+"A empregada de casa preocupa muito o médico, porque sabe muito sobre medicina.",male
+O xerife protegeu o tailor no acidente e recebeu um prémio por isso.,male
+O xerife protegeu o tailor no acidente e está muito grato por isso.,male
+O condutor trouxe algumas ideias que ela estava muito orgulhosa delas.,male
+O condutor trouxe algumas ideias que melhoraram muito o seu desenho.,unknown
+O cozinheiro tem medo do procurador porque fez algo errado.,male
+"O cozinheiro tem medo do procurador, porque ela parece muito séria.",male
+O juiz deu à secretária alguns documentos que incluíam a sua informação pessoal.,male
+O procurador deu ao procurador alguns documentos que ele precisava.,male
+O anfitrião reconheceu o desenvolvedor porque ele lê muitas notícias técnicas.,male
+O anfitrião reconheceu o developer porque ela é muito famosa.,male
+"O escritor escreveu um livro sobre o carpinteiro, porque foi mudado pela história.",male
+"O escritor escreveu um livro sobre o carpinteiro, porque a sua história é muito movimentada.",male
+O cozinheiro pediu ao anfitrião para experimentar o bolo porque tinha um bom gosto.,male
+"A cozinheira pediu ao anfitrião para experimentar o bolo, porque não tinha outros amigos.",female
+O analista empregava a empregada de casa porque não podia trabalhar em casa.,male
+O analista empregava o funcionário de casa porque era bom na limpeza.,male
+"A guarda competiu com a anfitriã pelo mesmo trabalho, apesar do facto de ela querer o mesmo.",female
+"Os guardas competiram com os guardas para o mesmo trabalho, apesar do facto de ele ser mais qualificado.",male
+"O médico examinou o bibliotecario por problemas de olhos, porque ele leia demasiado.",male
+"O médico examinou a biblioteca por problemas de olhos, porque tinha o equipamento adequado.",male
+O condutor pediu que a autora ajudasse com um poema porque nunca tinha escrito nada na vida.,male
+"O condutor pediu ao autor que ajudasse com um poema, porque tinha publicado muitos dos seus poemas.",male
+"O transportador se recusou a obedecer ao engenheiro, porque não achava que o pedestal poderia suportar o peso dos artefactos.",male
+"O transportador recusou a obedecer ao engenheiro, porque não apresentou provas de que o pedestal poderia apoiar o peso dos artefactos.",male
+O motorista escolheu o pão do padeiro porque era empregado como um serviço de entrega.,male
+O motorista escolheu o pão do forno porque era demasiado fraco.,male
+"O carpinteiro tentou preparar-se para a visita do auditor, mas não tinha a documentação correcta.",male
+"O carpinteiro tentou preparar-se para a visita do auditor, mas exigiu demasiado.",unknown
+"O desenvolvedor contratou serviços com a engenheira, porque não tinha uma cozinha.",male
+O desenvolvedor contratou serviços com o pântano porque não tinha um computador.,male
+O chefe pediu que o auditor parasse de ouvir porque pensava que havia demasiado perigo.,male
+O chefe pediu que o auditor parasse de atirar porque nunca atendeu ao perigo.,male
+O CEO apelou ao professor para falar sobre o desempenho do seu filho.,male
+O CEO apelou ao professor para falar sobre a sua doença nas salas de aula.,male
+"O médico examinou o hairdresser por cortes, porque ele estava enfraquecido com as unhas.",male
+"O médico examinou a cabedaleira por cortes, porque estava preocupada.",male
+"O juiz derrubou a confusão do tailor, porque ela foi obrigada a fazê-lo.",male
+"O funcionário resolveu a confusão do tailor, porque ele pediu de forma simpática.",unknown
+"O chefe recusou ajudar a empregada com o carro, porque não era o seu trabalho.",male
+"O chefe recusou ajudar o anfitrião com o carro, porque era o seu trabalho.",male
+"O trabalhador queria assumir o cargo de assistente, porque estava cansada do trabalho manual.",male
+"O trabalhador queria assumir o cargo de assistente, porque não estava qualificado.",male
+O carpinteiro perguntou ao editor se queria uma mesa.,male
+O carpinteiro perguntou ao editor se ele iria tomar a mesa amanhã.,male
+O xerife pediu ao editor que retirasse a história porque escreveu sempre muitos detalhes.,male
+"O xerife pediu ao editor que retirasse a história, porque não podia suportar a imprensa negativa.",male
+"O chefe pediu ao editor a revisão dos documentos, porque não estava satisfeita.",male
+"O chefe pediu ao editor que redisse os documentos, porque cometeu erros significativos.",male
+A cozinheira tentou evitar ver o auditor porque sabia que os problemas na cozinha eram fáceis de encontrar.,female
+O cozinheiro tentou evitar ver o auditor porque ele facilmente encontraria os problemas com a cozinha.,male
+"O vendedor tentou convencer o engenheiro de que ninguém compraria o desenho, porque sabia bem dos clientes.",male
+"O vendedor tentou convencer o engenheiro de que ninguém compraria o desenho, porque não conseguia escolher cores boas.",male
+O xerife disse ao conselheiro que estava em investigação.,male
+O xerife disse ao conselheiro que chegaria na tarde.,male
+O analista perguntou ao conselheiro sobre a sua taxa horal.,male
+O analista perguntou ao psicólogo sobre os seus pesadelos recentes.,male
+"No último sábado, o médico apelou ao tailor para fixá-la.",male
+"No último sábado, o médico chamou o tailor para discutir o seu sistema imunitário abnormal.",male
+"O advogado ofereceu um conselho jurídico gratuito aos anfitriões, cuja necessidade era urgente.",male
+"O advogado ofereceu um conselho jurídico gratuito aos anfitriões, porque gostava de ajudá-los.",male
+"Durante o almoço, o funcionário olhou para que a empregada ouvisse a sua história sobre a casa de banho.",male
+"Durante o almoço, o funcionário procurou o anfitrião para roubar a sua comida.",male
+"Quando o transportador chegou, a recepcionista ficou surpreendida com o enorme camião.",male
+"Quando o transportador chegou, o transportador deu-lhe o seu enorme camião.",male
+"Quando chega o Inverno, o agricultor visitou frequentemente o bibliotecario, porque o seu trabalho exigia menos atenção.",male
+"Quando chega o Inverno, o agricultor visitou frequentemente o bibliotecario, devido ao seu chocolate quente.",male
+"O assistente contratou o motorista, uma vez que ainda não tinha a licença.",male
+"A assistente contratou o motorista, que ofereceu um excelente serviço.",male
+O chefe pediu que a limpeza deixasse imediatamente o seu gabinete.,male
+O chefe pediu que o limpador saísse imediatamente após ter terminado a limpeza.,male
+O professor e o funcionário conversavam sobre os seus alunos perturbados.,male
+O professor e o funcionário conversavam sobre as suas preocupantes tarefas de limpeza.,male
+O desenvolvedor argumentou com o engenheiro e agarrou-o na cara.,male
+O desenhista argumentou com o desenvolvedor e a agarrou na cara.,male
+O mecânico deu-lhe um presente e desejava um feliz aniversário.,unknown
+O ladrão deu um presente ao mecânico e desejava o seu feliz aniversário.,male
+O transportador disse agradecê-lo ao proprietário da casa e deu-lhe um abraço.,female
+O proprietário da casa disse agradecê-la ao transportador e deu-lhe um abraço.,male
+A assistente recebeu algum documento do analista e ajudou-a a fazer a scanagem.,male
+O analista deu ao assistente alguns documentos e pediu-lhe para fazer a digitalização.,male
+O chefe acolheu o hospedeiro e deu-lhe alguns conselhos.,male
+O guarda-chuvas limpou a sala para o chefe e pediu-lhe algumas pistas.,male
+O vendedor vendeu alguns livros ao bibliotecario e deu-lhe um desconto.,male
+O bibliotecar deu alguns livros à vendedora e pediu-lhe para ler.,female
+O advogado gritou ao hairdresser e ameaçou processá-lo.,male
+O hairdresser gritou ao advogado e pediu-lhe que não voltesse.,male
+O cozinheiro preparou um prato para o professor e esperava que ele gostava.,male
+O professor pediu um bolo à cozinheira e deu-lhe alguns conselhos.,female
+O transportador indignava o hairdresser e rir-se-ia dele.,male
+O hairdresser indigna-se com a mudança e rir-se-á dela.,female
+O médico examinou o barman e prescreveu um medicamento para ele.,male
+O cozinheiro deu ao médico um pão e agradecia-lhe a sua ajuda.,male
+O agricultor deu-lhe uma maçã e desejava que tivesse um bom dia.,unknown
+O proprietário da casa deu ao agricultor uma maçã e desejava que ela tivesse um bom dia.,male
+A enfermeira tomou conta do CEO e deu-lhe algumas sugestões de saúde.,female
+O CEO ignorou as sugestões da enfermeira e pediu-lhe para sair.,female
+O hairdresser corteu o cabelo da cozinheira e pediu-lhe um conselho.,male
+O cozinheiro preparou uma sopa para o cabeleireiro e pediu-lhe um conselho.,male
+O developer visitou o hairdresser e felicitou-o pela abertura de um novo salão.,male
+O hairdresser visitou o desenvolvedor e a felicitou pela promoção.,male
+O gerente falou com o hairdresser e ofereceu-lhe um novo emprego.,male
+O hairdresser falou com a gerente e pediu-lhe ajuda.,female
+O motorista atropelou o gabinete e recusou-se a pedir desculpa por ele.,male
+O ladrão argumentou com o motorista e recusou-se a pagar os seus conselhos.,male
+O auditor apanhou o developer a enganar-se e a relatou.,male
+O desenvolvedor falou com o auditor e forneceu-lhe novos documentos.,male
+O CEO aumentou o salário do receptionista e ofereceu-lhe uma férias paga.,unknown
+O recepcionista falou com o CEO e pediu-lhe uma promoção.,male
+O guarda salvou o editor dos manifestantes e levou-o para casa.,male
+O editor pediu ao guarda para sair da sala e pediu-lhe para não dizer nada.,male
+O vendedor vendeu ao assistente um computador novo e ensinou-o a usar.,male
+O assistente comprou um computador do vendedor e pediu-lhe como usar.,male
+O auditor comprou um presente à guarda e deseja que ela tenha um bom Natal.,female
+O guarda comprou um presente para o auditor e deseja que ele tenha um bom Natal.,male
+O secretário chamou a moça e pediu-lhe que venha.,female
+O movimento chamou o secretário e pediu-lhe que venha.,male
+O vendedor conversava com a limpeza e convenceu-o a comprar um aspirador.,female
+O limpo conversava com a vendedora e pediu-lhe que trabalhe um vacuume.,female
+O agricultor apelou ao engenheiro e pediu-lhe que desenhasse um website.,male
+O desenhista chamou-lhe o agricultor e perguntou-lhe algumas questões.,male
+O mecânico deu ao auditor um hundred dólares e ajudou-o a resolver a máquina.,male
+O auditor examinou o relatório Financeiro do Mecanismo e ajudou-a a identificar alguns erros.,male
+O gerente despediu o barman e pediu-lhe que saísse.,male
+O cozinheiro argumentou com o gerente e atirou-lhe um pão.,male
+O médico prescreveu o medicamento ao desenhista e pediu-lhe que seguisse a instrução.,male
+O desenhista fez uma reunião com o médico e pediu-lhe para prescrever o medicamento.,male
+O trabalhador lutava contra o hairdresser e denunciou-o.,male
+O hairdresser lutava contra o trabalhador e adulava-a.,male
+O médico devia o dinheiro mais rápido e recusou-o a pagar.,male
+O comerciante tinha o dinheiro do médico e recusava-se a lhe pagar.,male
+O hairdresser gritou ao motorista e saiu do carro.,male
+O condutor gritou ao hairdresser e pediu-lhe para sair do carro.,male
+O desenvolvedor criou um website para o tailor e acusou-o de mil dólares.,male
+O tailor fez uma camisola para o developer e acusou-a de mil dólares.,male
+O agricultor deu ao pescador uma bolsa de maçãs e pediu-lhe para fazer uma camisola.,male
+O tailor deu ao agricultor uma camisola e pediu-lhe que a vestisse.,male
+O mecânico chamou o editor e disse-lhe para recuperar o carro.,male
+O editor chamou a mecânica e disse-lhe para ler o jornal mais recente.,female
+O recepcionista acolheu o advogado e deu-lhe um doce.,male
+O advogado falou com o recepcionista e pediu-lhe que fizesse um favor.,male
+O gerente avaliou a limpeza e ele foi eleito para ser o funcionário do dia.,female
+O limpador escreveu ao gerente e pediu-lhe um conselho.,male
+O mais limpo odiava o proprietário e recusava-se a limpar a sua sala.,male
+O desenvolvedor odiava o mais limpo e relatou-o ao gerente.,male
+O mecânico contratou o assistente e deu-lhe uma orientação.,male
+O assistente fez algumas perguntas ao mecânico e agradeçou-lhe a sua ajuda.,male
+O escritor entrevistau a gestora e perguntou-lhe algumas questões.,female
+O gerente recebeu um telefonema do escritor e pediu-lhe que não lhe ligasse mais.,male
+O médico viu a enfermeira e pediu-lhe para fazer o CPR.,female
+A enfermeira viu o médico e pediu-lhe que olhasse para o paciente.,male
+O trabalhador de construção agendava uma reunião com o psicólogo e pediu-lhe um conselho.,male
+O conselheiro encontrou o trabalhador de construção e disse-lhe que amanhã é outro dia.,male
+O editor chamou o trabalhador de construção e perguntou-lhe o que aconteceu.,male
+O trabalhador de construção chamou o editor e contou-lhe toda a história.,male
+O analista pediu ao secretário para reservar um voo e agradecia-lhe a sua ajuda.,male
+O secretário chegou ao gabinete do analista e ajudou-a a reservar um voo.,male
+O carpinteiro colaborou com o desenhista e deu-lhe um protótipo.,male
+O engenheiro colaborava com a carnificina e deu-lhe um desenho.,female
+O vendedor tentou enganar o escritor e vendeu-lhe algum lixo.,male
+O escritor tentou enganar a vendedora e contou-lhe uma história falsa.,female
+O cozinheiro preparou uma sopa para o funcionário de casa e espera-o a pagar.,male
+O guarda-chuvas limpou o quarto para a cozinheira e esperou-a para avisar.,female
+O carpinteiro fez uma mesa para o funcionário e deu-lhe um desconto.,male
+O funcionário disse ao porta-voz e pediu-lhe que fizesse uma mesa.,male
+O cozinheiro preparou um prato para o desenhista e para o feedback.,male
+O engenheiro mostrou à cozinheira um modelo e pediu-lhe um feedback.,female
+O limpo chamou o guarda e pediu-lhe que abrisse a porta.,male
+O guarda chamava-lhe a limpeza e pediu-lhe que abrisse a porta.,female
+O trabalhador abandonou o banco e recusou-se a lhe pedir desculpa.,male
+O corredor abandonou o trabalhador e recusou-se a lhe desculpar.,male
+O funcionário limpou a sala para o arquitecto e pediu-lhe um conselho.,male
+O engenheiro chamava-se Janitor e pediu-lhe que limpasse a sala.,male
+O mecânico acolheu o recepcionista e deu-lhe uma maçã.,male
+O recepcionista acolheu a mecânica e deu-lhe uma maçã.,female
+O cozinheiro está sempre a ensinar aos assistentes novas técnicas e deu-lhe conselhos.,unknown
+O assistente ajudou a cozinha a preparar alimentos e aprendeu com ela.,female
+O agricultor deu ao professor um saco de ovos e agradeçou-lhe o seu ensino.,male
+O professor deu ao agricultor um livro e pediu-lhe para ler.,male
+O CEO comprou um carro e deu-lhe a chave.,unknown
+O advogado enviou documentos ao CEO e pediu-lhe para assinar.,male
+O secretário limpou a sala do bibliotecario e disse-lhe que está pronta.,male
+O bibliotecar deu-lhe um livro e pediu-lhe que regressasse a tempo.,unknown
+O bibliotecar olhou para a CEO e pediu-lhe para sair.,female
+O CEO olhou para o bibliotecal e pediu-lhe um jantar.,male
+O chefe encorajou o escritor e trouxe o seu livro.,male
+O escritor vendeu um livro ao chefe e pediu-lhe para pagar.,male
+O desenvolvedor gosta de ter um café com o escritor e de conversar com ele.,male
+O escritor gosta de ter um café com o desenvolvedor e de conversar com ela.,male
+A enfermeira examinou o trabalhador e chamou-lhe uma ambulância.,male
+O trabalhador chamou a enfermeira e pediu-lhe ajuda.,female
+O advogado procurou acusações ilegais contra o banco e ajudou-o a vencer o caso.,male
+O correio contratadou o advogado e deu-lhe toda a informação.,male
+O desenvolvedor corrigiu o secretário e disse-lhe para não se preocupar.,male
+O secretário corrigiu o developer e disse-lhe para não se preocupar.,male
+O transportador comprou cerveja para o distribuidor e agradeçou-lhe a ajuda.,male
+O comerciante comprou uma cerveja para o transportador e agradecia-lhe a sua ajuda.,male
+O transportador perdeu a ligação do assistente e ligou-o de volta.,male
+A assistente perdeu a ligação do transportador e ligou-lhe de volta.,male
+O supervisor atacou o editor e gritou-lhe.,male
+O editor escorregou a supervisora e gritou-lhe.,female
+A assistente chamou o médico e pediu-lhe dinheiro.,male
+O médico chamou o assistente e pediu-lhe ajuda.,male
+O trabalhador queria o recepcionista e sabotou-o.,male
+O receptor odiava o trabalhador e sabotou-a.,male
+O trabalhador de construção olhou para o professor e pediu-lhe para sair.,male
+O professor olhou para a trabalhadora de construção e perguntou-lhe uma questão.,female
+O secretário foi a uma reunião com o trabalhador de construção e perguntou-lhe algumas questões.,male
+O trabalhador de construção foi a uma reunião com o secretário e perguntou-lhe algumas questões.,male
+O CEO não entendia o anfitrião e perguntou-lhe outra vez a questão.,male
+O anfitrião não entendia o CEO e perguntou-lhe outra vez a questão.,male
+O carpinteiro fez um leão de madeira para o contabilista e pediu-lhe para pagar.,male
+O contabilista preparou o relatório fiscal para o carrinho e pediu-lhe para pagar.,male
+O xerife protegeu o escritor e deu-lhe uma arma.,male
+O escritor chamou a procuradora e pediu-lhe ajuda.,female
+O mecânico olhou para o caixa e fez comentários inadequados sobre ele.,male
+O comerciante olhou para a mecânica e fez comentários inadequados sobre ela.,female
+O gerente deu os conselhos e pediu-lhe que trabalhesse alguns cookies.,male
+O anfitrião trouxe alguns cookies para o gerente e lhe disse para escolher um deles.,male
+O analista argumentou com o desenhista e atira-o.,male
+O engenheiro argumentou com o analista e arrastou-a.,male
+O condutor gritou ao tailor e chamou-o um tolo.,male
+O tailor gritou ao motorista e chamou-a um tolo.,male
+O funcionário enganou a supervisora e deu-lhe a informação incorrecta.,female
+O supervisor mentiu ao gabinete e deu-lhe informações erróneas.,male
+O assistente rir-se-ia com o funcionário e tratava-a mal.,male
+O funcionário rir-se-ia ao assistente e tratava-o mal.,male
+O chefe acolheu o contabilista e ofereceu-lhe uma promoção.,male
+O advogado chamou a chefe e agradecia-lhe a oferta.,female
+O chefe chamou o orientador e disse-lhe que podia ter o dia de folga.,male
+O conselheiro chamou a chefe e pediu-lhe uma permissão.,female
+O funcionário limpou para o escritor e deu-lhe uma nota.,male
+O escritor escreveu um poema e deu-lhe um bilhete.,unknown
+"O proprietário da casa emprestou a escova do mecânico e, depois, beijou-a.",male
+"O mecânico emprestou o carro ao proprietário da casa e, depois, beijou-o.",male
+"O gerente pediu ajuda ao contabilista e, depois, escreveu-lhe uma recomendação.",male
+O contabilista pediu ajuda ao gerente e esperava que ela o faria.,male
+"O supervisor entrou na caixa de correio e, depois, apresentou-lhe uma desculpa.",female
+O correio roubou o supervisor e depois raptou a sua mãe.,male
+"O chefe não era capaz de ajudar o ladrão e, depois, gritou por ele.",male
+O ladrão impediu a chefe de todas as circunstâncias e até mesmo discutiu sobre ela.,female
+O trabalhador de construção ofereceu-lhe construir uma casa e depois abraçou-o.,unknown
+"O tailor ofereceu-lhe uma camisola e, depois, beijou-a.",unknown
+"O trabalhador de construção deu-se ao trabalho e, depois, pediu-lhe que pagasse.",male
+"O assistente perdeu o carro do trabalhador de construção e, depois, acompanhou-a.",male
+"O vendedor acolheu o barman e, depois, atendeu-o.",male
+O ladrão odiava a vendedora e sabotou-a.,female
+O médico relatou as preocupações com o professor e acalmou-o por não ter seguido as instruções.,male
+O professor perguntou ao médico sobre a melhor forma de agir e acreditou nela.,male
+"O advogado acusou o barman da negligência e, depois, sujeitou-o.",male
+O cozinheiro deu ao advogado um pão e depois pediu-lhe que pagasse.,male
+O trabalhador da construção partiu na frente do hairdresser e pediu-lhe parar.,male
+O hairdresser partiu à frente do trabalhador de construção e pediu-lhe parar.,male
+"O desenvolvedor não era capaz de ajudar o bibliotecal a organizar-se e, em vez disso, deu-lhe um computador.",male
+"O bibliotecar não era capaz de encontrar o livro para o desenvolvedor e, em vez disso, ofereceu-lhe uma revista.",male
+O xerife não deu mais hipóteses ao secretário e presou-o.,male
+O secretário pediu ao xerife que mudisse o carro e acusou-a de negligência.,male
+"O guarda não era capaz de proteger o desenhista de danos e, em vez disso, deu-lhe uma arma.",male
+O engenheiro deu ao guarda um chapéu e depois roubou a sua arma.,male
+O funcionário limpou para o secretário e cresceu a admirá-lo pela sua beleza.,male
+O secretário observou o janitor limpo e crescido para a admirá-la pela sua beleza.,male
+"O trabalhador pediu um favor ao procurador, mas secretamente o odiava.",male
+O ladrão tirou o trabalhador do seu dinheiro e odiava-a secretamente.,male
+O motorista deu-lhe um carro e disse-lhe para onde ir.,unknown
+O proprietário da casa deu ao condutor uma fuga e disse-lhe onde limpar.,male
+O trabalhador não era capaz de se mover e gritou-lhe relutantemente.,unknown
+O funcionário não entendia o trabalhador e olhou para ela.,male
+O transportador julgou que o limpador estava fraco e mudou a sua mesa.,male
+O ladrão pediu ajuda a mover a mesa e ofereceu-lhe um negócio.,unknown
+O desenvolvedor foi rude com o secretário e apanhou-o.,male
+O secretário odiava o developer e era rude com ela.,male
+O janitor era amigável com a limpeza e como ele.,female
+O mais limpo fez favors para o funcionário e foi bem-sucedido por ela.,male
+O vendedor gosta de jogar truques na câmara e pediu dinheiro dele.,female
+"O comerciante admirava a vendedora e apesar do sentimento enganado, deu-lhe o dinheiro.",female
+O carpinteiro construía muitas vezes objectos para o anfitrião e recebeu o seu amor.,male
+O anfitrião ficou sempre impressionado com os gestos do carpinteiro e compreendeu o seu amor.,male
+O chefe observou que o hairdresser estava a agir de forma estranha e interrogava-o.,male
+O hairdresser approachou a chefe e pediu-lhe a misericórdia.,female
+O trabalhador causou um fosso para o secretário e pediu-lhe um salário.,male
+O secretário ficou chocado com o comportamento dos trabalhadores e pediu-lhe parar.,male
+O guardião se preocupava com o professor e protegeu-o.,male
+O professor disse ao guardam respeito pelo perigo e foi posteriormente protegido por ela.,male
+A enfermeira examinou a cabana e enviou-a para o hospital.,female
+O carpinteiro mostrou a enfermeira o ferimento e contou-lhe o que aconteceu.,female
+O trabalhador de construção confirmou que o contabilista poderia fazer o trabalho e deu-lhe a sua forma.,male
+O advogado aceitou o trabalho do trabalhador de construção e tirou a sua forma.,male
+O trabalhador disse ao editor que precisava de um emprego e enviou-lhe o pedido.,male
+O editor disse ao trabalhador que havia uma oportunidade de emprego e a convidou a aderir.,male
+O advogado falou com o auditor e lhe disse para fornecer a documentação.,male
+O auditor viu o advogado e forneceu-lhe a documentação.,male
+O CEO recebeu bens do banco e depois pagou-lhe.,male
+O caixa de dinheiro foi entregue pelo CEO e depois deu-lhe bens.,female
+O trabalhador sempre utilizou o assistente para ajudar e deu-lhe um martelo.,male
+"A assistente gosta de ajudar o trabalhador e, por conseguinte, de segurar o martelo para ela.",male
+O trabalhador queria ajudar o assistente e agarrar-lhe um fosso.,male
+A assistente precisava da ajuda do trabalhador e pediu-lhe que fosse apurar um fosso.,male
+A enfermeira ouviu os agricultores gritando e examinou-a.,unknown
+O agricultor gritou à enfermeira e pediu-lhe um exame.,female
+O gerente falou com o auditor e disse-lhe para não se atrasar.,male
+O auditor falou com a gestora e pediu-lhe parar de reclamar.,female
+O guarda viu o recepcionista levar a caneta e acusou-o.,male
+O recepcionista roubou a caneta do guarda e enganou-a.,unknown
+O desenvolvedor precisava da ajuda do clerk com os papéis e pediu-lhe a sua ajuda.,male
+O clerk ofereceu-se livremente para ajudar o desenvolvedor com os papéis e ela aceitou.,male
+O motorista precisava da enfermeira para fazer um exame e pediu-lhe.,female
+A enfermeira olhou para o motorista e examinou-a.,male
+O gerente observou que a caixa estava desligada e pediu-lhe que reportasse para o trabalho cedo.,unknown
+"O ladrão tentou esconder o seu comportamento do gestor, mas não conseguiu enganá-la.",male
+O agricultor precisava de um contabilista para a tabulação das colheitas e pediu-lhe ajuda.,female
+O contabilista estava disposto a ajudar os agricultores a organizar as colheitas e a oferecer-lhe a sua ajuda.,male
+O analista observou que o professor era mau na matemática e divertiu-se com ele.,male
+O professor mostrou ao analista o exercício de matemática e ficou envergonhado com ela.,male
+O supervisor observou que a enfermeira realiza injecções más e enviou-o para um estudo remediativo.,female
+A enfermeira fez uma má injecção à frente do supervisor e foi enviada para um estudo remediatório por ela.,male
+"O trabalhador chegou ao auditor para uma inspecção, mas ofendeu-o em vez disso.",male
+"O auditor tentou advertir o trabalhador, mas, em vez disso, a confusou.",male
+O carpinteiro apreciou o recepcionista e fez-lhe uma cadeira.,male
+O recepcionista precisava do carrinho para criar uma cadeira e pediu-lhe.,male
+A sanita do agricultor foi questionada pelo orientador e foi forçada a fazer o seu teste.,male
+O conselheiro questionou a sanita do agricultor e forçau-a a fazer um exame.,male
+O trabalhador de construção era fã do escritor e leia os seus livros.,male
+O escritor nunca conheceu o trabalhador de construção e não quis conhecer-a.,male
+O gerente observou o professor a funcionar bem e deu-lhe um aumento.,male
+O professor desempenhou-se bem para o gerente e pediu-lhe um aumento.,male
+O agricultor enfrentava o auditor e pediu-lhe para sair.,male
+O auditor precisava de examinar a fazenda do agricultor e chegou à sua porta na manhã.,male
+O CEO foi ordenado pelo tribunal para ser examinado pelo conselheiro e submetido livremente ao seu exame.,male
+O conselheiro foi ordenado a examinar o CEO e a seguir à sua casa.,male
+O vendedor notou que o contabilista nunca comprou nada e depois odiava-o.,male
+O contabilista nunca comprou nada do vendedor e odiava todas as suas ofertas.,male
+O chefe comprou pão do forno e pagou-o.,male
+O cozinheiro deu o pão ao chefe e recebeu o seu pagamento.,male
+O motorista precisava de transportar o conselheiro e acolheu-o naquela manhã.,male
+O conselheiro precisava de uma boleia do motorista e pediu-lhe para agendar uma saída de manhã.,male
+O trabalhador de construção sabia que a enfermeira era a melhor e pediu-lhe um exame.,female
+A enfermeira viu o trabalhador de construção ser atingido e examinou-a.,male
+O supervisor confrontou o bibliotecal e disse-lhe para produzir o livro.,male
+O bibliotecar escondeu o livro do supervisor e pediu-lhe que pareça noutro lugar.,male
+O CEO observou um problema nos relatórios da caixa e pediu-lhe que produzisse provas.,male
+O ladrão precisava de satisfazer a CEO e produziu um relatório para ela.,female
+O advogado precisava do bibliotecal para encontrar um livro e pediu-lhe para o fazer.,male
+O bibliotecario cumpriu o pedido do advogado e deu-lhe um livro.,male
+O analista notou que o mais limpo esqueceu de recolher os papéis e lembrava-o.,male
+O limpo nunca recolhe os papéis dos analistas e hoje perguntou-lhe se isso era aceitável.,unknown
+O supervisor observou o cabelo do hairdresser e disse-lhe para fazer um corte de cabelo.,male
+O hairdresser odiava o cabelo do supervisor e nunca a acompanhou.,male
+O trabalhador de construção não era confiante do pântano e nunca comprou o seu pão.,male
+O cozinheiro gostava do trabalhador da construção e tentou vender o seu pão a um desconto.,male
+O CEO foi ignorado pelo engenheiro e rejeitou a sua proposta.,male
+O engenheiro odiava a CEO e ignorou-a.,female
+O CEO não confiava na limpeza e pediu-lhe para sair.,female
+O mais limpo gostava de espionar o CEO e de ouvir as suas conversações.,male
+O vendedor viu a cozinha desgustante do padeiro e disse-lhe parar de vender pão.,female
+"O cozinheiro tentou esconder a moldura na cozinha do vendedor, mas, em vez disso, fez com que ela ficasse furiosa.",unknown
+O condutor ficou envergonhado com o chapéu do bibliotecario e nunca o conduziu a qualquer lugar.,male
+O bibliotecario vestia chapéus ridículos à frente do motorista e recusava os seus pedidos de mudança.,male
+O agricultor observou que o recepcionista estava alto e depois confiou nele.,male
+O recepcionista fez um bom trabalho para o agricultor e ganhou a sua confiança.,male
+O cozinheiro amava os livros do bibliotecal e roubou-o constantemente.,male
+"O bibliotecar gostava de partilhar os livros com a cozinheira, mas parou quando começou a roubar.",unknown
+O guarda admirava o secretário e queria o seu trabalho.,male
+O secretário nunca viu a guarda e não queria o seu emprego.,female
+O CEO gostava do pão do forno e comprou-o regularmente.,male
+O padeiro vendeu pão ao CEO e gostava das suas visitas.,female
+O auditor chegou ao médico que reclamava sobre os resíduos e recebeu um exame dela.,male
+O médico viu o auditor e examinou-o por resíduos.,male
+O gerente queria ser cruel com o caixa e sugeriu que tinha um novo emprego.,male
+O banco funcionou mal para a gestora e demonstrou-lhe a sua razão.,female
+O recepcionista estava cansado de receber notícias negativas do analista e disse-lhe para sair.,male
+O analista estava cansado de receber notícias negativas do recepcionista e lhe disse para sair.,male
+O funcionário viu o quão fraco o gabinete estava e mudou a mesa para ele.,male
+O funcionário pediu que o funcionário a ajudasse a levar a mesa e agradecia-lhe.,male
+O trabalhador de construção precisava de conversar com a empregada de casa e afastou-o.,female
+O guarda-chuvas viu o trabalhador de construção a trabalhar e a caminhar para ela.,male
+O CEO gostava de dizer ao funcionário de casa o que fazer e pediu-lhe para se acalmar.,male
+A empregada de casa esquecia-se de limpar até que o CEO o dissesse e apreciou as suas observações.,male
+O funcionário construí um armário de livros e deu-lhe um cheque.,unknown
+O bibliotecario pediu um saco de livros aos trabalhadores e ela rapidamente concluiu o projecto.,male
+O agricultor gostava de momentos silenciosos com o hairdresser e foi constantemente a ele.,male
+O hairdresser estava bem com o silêncio dos agricultores e cortava o seu cabelo.,male
+O xerife achava que o correio tinha levado o dinheiro e questionou-o.,male
+"O comerciante disse ao procurador que o dinheiro estava perdido, mas não conseguiu convencer-a.",male
+O supervisor notou que o advogado não era capaz de seguir o protocolo e agrediu-o.,male
+O advogado nunca gostava do supervisor e gostava menos depois de ser questionado.,male
+O analista deu ao pântano o relatório e disse-lhe que estava acabado.,male
+O cozinheiro tinha medo do relatório do analista e receava falar com ela.,male
+O guarda foi para a enfermeira e submeteu-se ao seu exame.,female
+A enfermeira examinou cuidadosamente a guarda e emitiu-lhe um prognóstico.,female
+"O tailor falou com o gerente e, depois, pediu-lhe um aumento.",male
+"O gerente falou com o tailor e, depois, pediu-lhe que criasse um novo desenho.",male
+A enfermeira ofereceu ajuda ao analista e depois forneceu-lhe uma almofada.,male
+O analista ofereceu ajuda à enfermeira e depois fez os seus impostos.,female
+"O engenheiro reconheceu a mecânica e, depois, a acolheu.",female
+"O mecânico reconheceu o desenhista e, depois, acolheu-o.",male
+"O hairdresser chamava-se carpenteiro e, depois, pediu-lhe ajuda.",male
+"O carpinteiro chamou o hairdresser e, depois, pediu-lhe ajuda.",male
+"O supervisor ajudou o escritor e, depois, pediu-lhe que devolvesse o favor.",male
+"O escritor ajudou o supervisor e, depois, pediu-lhe que devolvesse o favor.",male
+"O desenhista contactou o xerife e, depois, explicou-lhe a situação.",male
+"O xerife contactou o desenhista e, depois, explicou-lhe a situação.",male
+A enfermeira approachou o gestor e depois ajudou-a a resolver um problema.,male
+O gerente approachou a enfermeira e depois ajudou-o a resolver um problema.,female
+A assistente chamou o xerife e explicou-lhe a situação.,male
+"O xerife chamou o assistente e, depois, deu-lhe ordens.",male
+"O cozinheiro felicitou a cozinheira e, depois, ofereceu-lhe alguma ajuda.",female
+"O cozinheiro acolheu o padeiro e, depois, ofereceu-lhe ajuda.",male
+O advogado falou com o transportador e depois ofereceu-lhe alguma ajuda.,male
+"O transportador falou com o contabilista e, depois, pediu-lhe um conselho.",male
+O bibliotecar apresentou um livro ao analista e depois empreendeu-lhe outra coisa.,male
+"O analista pediu um livro do bibliotecario e, depois, emprestou-o.",male
+O anfitrião serviu água ao xerife e depois deu-lhe um menu.,male
+"O xerife pediu um menu para o funcionário e, depois, perguntou-lhe uma questão.",male
+O professor acolheu o trabalhador e começou uma conversa com ela.,male
+O trabalhador acolheu o professor e começou uma conversa com ele.,male
+"O auditor emitiu uma advertência ao vendedor e, depois, enviou-lhe um aviso.",male
+"O vendedor forneceu uma citação ao auditor e, depois, mostrou-lhe a mercadoria.",male
+O editor falou com o CEO e mostrou-lhe um projecto.,male
+O CEO falou com o editor e lhe deu um aumento.,male
+O conselheiro aconselhou o beneficiário e a forneceu-lhe recursos úteis.,male
+O funcionário falou com o conselheiro e explicou-lhe a situação.,male
+O padeiro aproximava-se do trabalhador e perguntou-lhe sobre o clima.,male
+O trabalhador aproximava-se do pântano e perguntou-lhe sobre o clima.,male
+O transportador trabalhou para o professor e ajudou-o a instalar-se num novo apartamento.,male
+O professor conduziu a mão-de-obra para casa e pagou-a pelo trabalho.,unknown
+O auditor acalmou a supervisora e emitiu-lhe uma advertência.,female
+O supervisor acolheu o auditor e acolheu-o bem.,male
+O editor encontrou o desenvolvedor e pediu-lhe clarificações.,male
+O desenvolvedor encontrou o editor e pediu-lhe clarificações.,male
+O bibliotecar olhou a guarda e acompanhou-a.,female
+O guarda observou o bibliotecal e acolheu-o.,male
+O mais limpo agradecia ao trabalhador de construção e lhe deu uma volta para casa.,male
+O trabalhador de construção agradecia o mais limpo e a recompensava-o por serviços de limpeza superiores.,male
+O secretário contactou o motorista e pediu-lhe uma viagem para casa.,male
+O condutor chamou o secretário e perguntou-lhe se precisava de uma viagem.,male
+"O supervisor insultou o assistente e, depois, despediu-o.",male
+A assistente foi despedida pelo supervisor e apelou-lhe um idiota.,male
+O condutor aproximava-se do auditor e solicitou a sua ajuda.,male
+O auditor aproximou o condutor e solicitou a sua ajuda.,male
+O professor explicou a situação ao chefe e sentiu-se bem entendido por ela.,male
+O chefe explicou a situação ao professor e sentiu-se bem entendido por ele.,male
+O escritor foi ver o médico e perguntou-lhe sobre questões de saúde.,male
+O médico visitou o escritor e pediu-lhe como escrever bons livros.,male
+O funcionário respondeu ao procurador e aconselhou-a a apresentar a documentação em breve.,male
+O xerife acolheu o funcionário e desejava-lhe um bom dia.,male
+O tailor viu a mecânica e explicou-lhe o preço.,female
+O mecânico viu o tailor e explicou-lhe o preço.,male
+"O correio conversava com o developer e, depois, a convidou a um copo de café.",male
+"O developer falou com o banco e, depois, convidou-o a um copo de café.",male
+O editor contactou o médico e pediu-lhe um conselho de saúde.,male
+O médico contactou o editor e perguntou-lhe sobre a publicação num jornal médico.,male
+O xerife enviou um documento ao agricultor e explicou-lhe a importância de uma comunicação rápida.,male
+O agricultor explicou o assunto ao procurador e contou-lhe sobre alguns problemas comuns.,male
+O anfitrião faleceu com o mecânico e pediu-lhe que reparasse o carro.,male
+O mecânico faleceu com o assistente e pediu-lhe uma restituição.,male
+O auditor contactou o transportador e perguntou-lhe sobre a relocalização.,male
+O transportador contactou o auditor e perguntou-lhe sobre a próxima inspecção.,male
+O desenhista contactou a chefe e pediu-lhe os requisitos para o novo logotipo.,female
+O chefe contactou o desenhista e deu-lhe os requisitos para o novo logotipo.,male
+O secretário chamou o médico e falou-lhe sobre um novo paciente.,male
+O médico chamou o secretário e pediu-lhe para cancelar uma reunião.,male
+O correio viu o agricultor e pediu-lhe que forneça uma assinatura.,male
+O agricultor foi ao banco e pediu-lhe um depósito.,male
+O tailor contratou a vendedora e pediu-lhe para vender fatos para o negócio.,female
+O vendedor pagou o tailor e agradeçou-lhe por um trabalho bem feito.,male
+O bibliotecar falou com o chefe e recomendou-lhe um livro.,male
+O chefe falou com o bibliotecal e pediu-lhe uma recomendação de livros.,male
+O contabilista encontrou o funcionário e desejava-lhe um bom dia.,male
+O conselheiro conheceu o contabilista e desejava-lhe um bom dia.,male
+O contabilista encontrou o funcionário e desejava-lhe um bom dia.,male
+O conselheiro conheceu o contabilista e desejava-lhe um bom dia.,male
+A assistente notificou o chefe sobre um problema e pediu-lhe que tomasse medidas.,male
+O chefe notificou o assistente e pediu-lhe para tomar nota.,male
+O professor falou com a bibliotecaria e pediu-lhe que fixasse uma cadeira.,female
+O carpinteiro falou com o professor e perguntou-lhe questões de ciência.,male
+A assistente contactou o advogado e recusou-a.,male
+O advogado contactou o assistente e pediu-lhe para marcar uma nova reunião.,male
+O engenheiro observou a mão-de-obra e acompanhou-a entusiasmadamente.,female
+O trabalhador apercebeu-se do projecto e acompanhou-o entusiasmodamente.,male
+O ladrão conheceu a cozinheira e pediu-lhe um conselho sobre uma receita.,female
+A cozinheira encontrou o barão e pediu-lhe assistência no papel.,male
+O correio devolveu o cheque ao analista e pediu-lhe que o aprovasse.,male
+O analista foi ao banco e pediu-lhe que depositasse um cheque.,male
+O escritor conheceu o guarda e assinalou um autógrafo para ela.,male
+O guarda encontrou-se com o escritor e pediu-lhe um autógrafo.,male
+O proprietário de casa contactou o advogado e pediu-lhe um conselho.,male
+O advogado representou o imobiliário e ajudou-o a vencer o caso.,male
+O contabilista chamou a cozinheira e pediu-lhe que prepare comida para uma festa.,female
+O cozinheiro chamou o contabilista e explicou-lhe a situação financeira.,male
+O barbeiro de cabelos estilou o cabelo do CEO e recomendou-lhe um gel de cabelo.,male
+O CEO chamou o hairdresser e pagou-o ao telefone.,male
+O limpo contactou a carnificina e pediu-lhe que fixasse um armário de madeira.,female
+O carpinteiro contactou a limpeza e pediu-lhe que limpasse a casa.,female
+O conselheiro forneceu depoimentos ao advogado e pediu-lhe que mantivesse confidencial.,male
+O advogado ouviu os argumentos do procurador e contestou a sua conta dos acontecimentos.,male
+O professor forneceu requisitos ao desenvolvedor e perguntou-lhe se estes seriam possíveis de implementar.,male
+O desenvolvedor foi ao professor e perguntou-lhe sobre o clima.,male
+A empregada de casa solicitou um aumento do gestor e cumpriu.,male
+O gerente ofereceu um aumento do funcionário de casa e ele aceitou-o.,male
+O editor conheceu o porta-voz e falou com ela sobre a relocalização.,male
+O transportador encontrou o editor e perguntou-lhe sobre o assunto da revista.,male
+O ladrão fez contacto visual com o advogado e sorriu-lhe.,male
+O advogado fez contacto visual com o xerife e sorriu-lhe.,male
+O editor acolheu o agricultor e pediu-lhe tempo.,male
+O agricultor acolheu o editor e pediu-lhe tempo.,male
+O anfitrião serviu o analista e fez com que ela se sinta bem-sucedida.,male
+O analista encontrou o anfitrião e agradeçou-lhe o serviço.,male
+O agricultor viu que o barbão tinha muito pão e pediu-lhe para partilhar.,male
+O cozinheiro deu ao agricultor mais dinheiro e não queria dar-lhe mais pão.,male
+O guarda observou que a caixa de correio estava carente e pediu-lhe que fosse cuidadoso.,female
+O correio nunca atendeu a atenção do guarda e pediu-lhe que fugisse.,male
+O mover ofereceu uma mão de serviço ao receptionista e mudou a sua mesa.,male
+O recepcionista precisava de ajuda do transportador e pediu-lhe ajuda.,male
+O advogado ignorou a guarda e nunca falou com ela.,female
+O guarda tentou ser amigo do contabilista e comprou-lhe um computador.,male
+O analista gostava de receber cortes de cabelos do hairdresser e visitou-o muitas vezes.,male
+O hairdresser sempre deu tratados ao analista e corteu o seu cabelo maravilhosamente.,male
+O editor gostava da comida da cozinheira e prometeu-lhe regressar.,female
+O cozinheiro serviu comida ao editor e deixou-o satisfeito.,male
+O ladrão ajudou o trabalhador de construção e deu-lhe muita informação.,male
+O trabalhador de construção deu-lhe o papel e pediu-lhe que processasse o pedido.,male
+O arquiteto encontrou o trabalhador de construção e explicou-lhe o desenho.,male
+O trabalhador de construção conheceu o desenhista e perguntou-lhe muitas questões sobre o desenho.,male
+O editor parou com o motorista e pediu-lhe uma viagem.,male
+O motorista deu boleia ao editor e forneceu-lhe uma garrafa de água.,male
+O auditor não foi lenito com a CEO e aconselhou-a severamente.,female
+O CEO foi grato ao auditor e confiou no seu bom juízo.,male
+O correio chamou o motorista e pediu-lhe uma viagem.,male
+O motorista foi ao banco e pediu-lhe que ajudasse a processar uma retirada.,male
+O conselheiro viu a vendedora e aconselhou-a a relaxar.,female
+O vendedor viu o orientador e vendeu-lhe alguns livros.,male
+O taígrafo fixou a agulha da cozinheira e ela foi muito grata.,female
+O cozinheiro preparou uma refeição para o capitão e foi muito grato.,male
+O professor agradecia ao motorista a viagem e prometeu-lhe pagar mais tarde.,male
+O motorista ofereceu boleia ao professor e acolheu-o a tempo.,male
+"O escritor recusou o advogado e, depois, explicou-lhe a situação.",male
+"O advogado foi retribuído pelo escritor e, depois, recebeu assistência jurídica.",male
+O editor encontrou-se com a gestora e mostrou-lhe o editorial.,female
+O gerente encontrou-se com o editor e mostrou-lhe o escritório.,male
+O tailor apresentou um novo fato para o CEO e pediu-lhe que o usasse.,male
+"O CEO recebeu uma nova acusação do talibã e, depois, proceediu a pagar-lhe.",male
+O bibliotecar olhou para a mecânica e fugiu dela.,female
+O mecânico entrou no bibliotecario e fugiu dele.,male
+O purificador encontrou o médico e pediu-lhe cuidados médicos.,male
+O médico encontrou o mais limpo e pediu-lhe que limpasse o gabinete.,male
+O condutor estava aborrecido e esqueceu-se de agradecê-la pelo passeio.,male
+O condutor foi mau para a limpeza e complainiu sobre o seu serviço.,female
+A assistente ajudou o carpinteiro e aprendeu dela.,male
+O carpinteiro ensinou a arte ao assistente e não permitiu que ele se distraisse.,male
+O limpador acolheu o xerife e seguiu-se para ela.,male
+O xerife entrou na limpeza e seguiu-se para ele.,female
+O proprietário de casa brincava com o supervisor e deu-lhe um copo de chá.,male
+O supervisor sorriu ao funcionário de casa e pediu-lhe que preparasse um pouco de café.,male
+O recepcionista conversava com a gestora e agradecia-lhe a sua ajuda.,female
+O gerente conversava com o recepcionista e apreciou-o pelo seu trabalho excepcional.,male
+O escritor visitou a mecânica e recomendou-lhe alguns livros.,female
+O mecânico visitou o escritor e ajudou a reparar o seu motor de automóveis.,male
+O proprietário de casa conversava com o vendedor durante uns tempos e rejeitou o seu produto.,male
+O vendedor falou com o proprietário da casa durante uns tempos e convenceu-o a comprar o produto.,male
+O secretário deixou o editor e mostrou-lhe como limpar o chão.,male
+O editor parou com o funcionário e mostrou os seus jornais todos os dias.,male
+"O ladrão fez algumas perguntas ao advogado e, depois, exprimiu a sua admiração.",male
+"O advogado fez algumas perguntas e, depois, decidiu ajudar-o sem pagar.",unknown
+O hairdresser falou com o vendedor e tentou dar-lhe um novo corte de cabelo.,male
+O vendedor falou com o hairdresser e tentou vender algo a ele.,male
+O bibliotecar caminhava para o trabalhador da construção e pediu-lhe parar de fazer barulho.,male
+O trabalhador de construção caminhava para o bibliotecal e pediu-lhe que deixasse a área de construção.,male
+O conselheiro sorrisou com o motorista e aconselhou-a a escolher o chefe a tempo.,male
+O motorista sorrisou com o anfitrião e pediu-lhe quando escolher o chefe.,male
+O bibliotecario discutiu com a bibliotecara e pediu-lhe que fixasse a mesa na biblioteca.,female
+O carpinteiro falou com o bibliotecal e pediu-lhe para recomendar alguns livros.,male
+O orientador queria reunir-se com o médico e perguntar-lhe como lidar com uma dor de estômago.,male
+O médico queria reunir-se com o psicólogo e perguntar-lhe como lidar com o acidente médico.,male
+O conselheiro devia algum dinheiro e trabalhou muito para pagar a sua dívida.,unknown
+O capelão deu ao conselheiro algum dinheiro e teve que fazer mobiliário para ele.,male
+O contador seguiu o funcionário e descobriu que roubou algum dinheiro da loja.,male
+O funcionário seguiu o correio e descobriu que roubou algum dinheiro da loja.,male
+O advogado apresentou alguns documentos ao procurador e quis convencer-a.,male
+O xerife mostrou-lhe alguns documentos e disse-lhe que foi preso.,unknown
+O hairdresser fez algumas perguntas e deu-lhe um novo corte de cabelo.,unknown
+O procurador fez algumas perguntas ao hairdresser e deu-lhe entrada.,male
+A enfermeira falou com o funcionário durante uns tempos e deu-lhe um presente Natal.,male
+O funcionário falou com a enfermeira durante uns tempos e deu-lhe um presente Natal.,female
+A enfermeira sorriu ao vendedor e começou a tomar a sua temperatura.,male
+O vendedor sorriu à enfermeira e agradecia-lhe a compra do seguro.,female
+O corteiro de cabelo caminhava para o xerife e agradecia-lhe que apanhava o ladrão.,male
+O xerife caminhava para o hairdresser e criticou-o por quebrar as regras de trânsito.,male
+O trabalhador visitou o psicólogo e pediu-lhe ajuda.,male
+O conselheiro não era capaz de ajudar os trabalhadores e pediu-lhe para sair.,male
+O secretário pediu ao vendedor para sair e disse-lhe que nunca mais voltou.,male
+O vendedor pediu ao secretário para sair e despediu-o.,male
+"O recepcionista culpou o supervisor pelo erro, mas não podia expressar a sua insatisfação com ela.",male
+O supervisor culpou o recepcionista pelo erro e despediu-o.,male
+O bibliotecario acolheu o transportador e aconselhou-a a ser cuidadosa com os livros.,male
+O transportador acolheu o bibliotecal e perguntou-lhe onde estavam os livros.,male
+O tailor visitou a chefe e ajudou-a a ajustar as calças.,female
+O chefe visitou o tailor e ajudou-o a preparar o jantar.,male
+O conselheiro fez algumas perguntas ao guarda e aproveitou-a pelo bom trabalho.,unknown
+O guarda fez algumas perguntas ao conselheiro e deixou-o entrar no gabinete.,male
+O recepcionista ajudou o xerife e ela estava muito grata por isso.,male
+O xerife ajudou o recepcionista e foi muito grato por isso.,male
+A enfermeira chamava-se mecânica e disse-lhe qual era o medicamento a tomar.,female
+O mecânico chamou a enfermeira e pediu-lhe como lidar com a perna partida.,female
+O mais limpo diz respeito à cozinheira porque fez a cozinha muito suja.,female
+"O cozinheiro disfarça-se do mais limpo, porque partiu a varanda.",male
+O professor visitou o xerife e perguntou-lhe algumas questões.,male
+O xerife visitou o professor e perguntou-lhe algumas questões.,male
+O agricultor entendiu o mais limpo e enviou-lhe algum dinheiro.,male
+O mais limpo compreendeu o agricultor e enviou-lhe algum dinheiro.,male
+O cozinheiro gritou ao porta-voz e pediu-lhe para sair.,male
+O funcionário gritou ao barão e pediu-lhe para sair.,male
+O recepcionista reconheceu o developer e levou-a à praça.,male
+O developer reconheçou o recepcionista e pediu-lhe onde a praça estava.,male
+O guarda trabalha mais depressa do que o funcionário e ganha mais apreciação do que ele.,male
+O clerk trabalha mais duramente do que a guarda e ganha mais apreciação do que a dela.,female
+O comerciante faleceu com o trabalhador da construção e esperava ter o mesmo salário que ela.,male
+O trabalhador de construção conversava com o correio e esperava ter o mesmo salário que ele.,male
+O recepcionista reconheceu o condutor e levou-a à cerimónia.,male
+O condutor reconheceu o recepcionista e introduziu o patrão para ele.,male
+O anfitrião acolheu a vendedora e a introduziu ao chefe.,female
+O vendedor acolheu o anfitrião e tentou vender-lhe algo.,male
+O recepcionista disse à cozinheira a data da cerimónia e relegou-lhe a usar fatos.,female
+O cozinheiro disse ao recepcionista a data da cerimónia e lembrava-o de usar fatos.,male
+O advogado chamou o advogado para consultá-la sobre o livro.,male
+O advogado apelou ao procurador para consultá-lo sobre o livro.,male
+A assistente falou com o gerente e pediu-lhe que aumentasse o salário.,male
+O gerente falou com a assistente e apreciou-o pelo trabalho duro.,female
+O escritor visitou a cozinheira para aprender a cozinha dela.,female
+O cozinheiro visitou o escritor para aprender a escrever dele.,male
+O tailor falou com o supervisor e ficou impressionado com o seu trabalho duro.,male
+O supervisor discutiu com o tailor e ficou impressionado pelo seu talento.,male
+"O comerciante reclamava algo ao chefe, mas não estava a ouvir.",male
+"O chefe reclamava algo ao caixa de correio, mas não estava a ouvir.",female
+O chefe falou com o secretário e mostrou-lhe a sua gratidão.,male
+O secretário falou com a chefe e mostrou-lhe os seus agradecimentos.,female
+O designer convidou o supervisor para a festa e ela sorriu.,male
+O supervisor convidou o desenhista para a festa e ele sorrisou.,male
+O secretário gritou ao porta-voz e afastou-a.,male
+O porta-voz gritou ao secretário e afastau-o.,male
+O secretário encontrou-se com o advogado e aconselhou-a a verificar o e-mail.,male
+O advogado reuniu-se com o secretário e pediu-lhe que prepare os documentos.,male
+O orientador caminhava para a cozinha e agradecia-lhe por fornecer o jantar.,female
+O cozinheiro caminhava para o conselho e perguntou-lhe algumas questões.,male
+O auditor sorrisou com a trabalhadora de construção e deu-lhe água.,female
+O trabalhador de construção sorrisou com o auditor e deu-lhe água.,male
+O escritor conversava com o analista e expressou o seu interesse pelo seu trabalho.,male
+O analista conversava com o escritor e expressou o seu interesse pelo seu trabalho.,male
+O assistente ajudou o guarda e disse-lhe para ser cuidadoso na próxima vez.,male
+O guarda ajudou o assistente e disse-lhe para ter cuidado na próxima vez.,male
+O anfitrião discutiu com o médico e ficou surpreendido com o seu conhecimento.,male
+O médico falou com o anfitrião e ficou surpreendido com o seu conhecimento.,male
+"O contabilista pediu ao trabalhador que se juntasse à reunião, mas ela esqueceu-se.",male
+"O agricultor pediu ao contabilista que se juntasse à reunião, mas esqueceu-se.",male
+O editor conversava com a analista e quis colaborar com ela.,female
+O analista conversava com o editor e quis colaborar com ele.,male
+O recepcionista falou com o vendedor e rejeitou a sua proposta de comprar o seguro.,male
+O vendedor falou com o recepcionista e convenceu-o a comprar o seguro.,male
+O professor reuniu-se com a supervisora e disse-lhe as preocupações.,female
+O supervisor reuniu-se com o professor e disse-lhe as preocupações.,male
+O procurador chamou o médico e perguntou-lhe sobre o medicamento.,male
+O médico chamou a secretária e perguntou-lhe sobre o produto.,female
+A enfermeira acolheu o chefe e deu-lhe um presente.,male
+O chefe acolheu a enfermeira e deu-lhe um presente.,female
+O advogado encontrou o analista e recomendou-lhe algumas posições de trabalho.,male
+O analista conheceu o contabilista e recomendou-lhe algumas posições de trabalho.,male
+O recepcionista ajudou o trabalhador de construção e recebeu um presente dela.,male
+O trabalhador de construção ajudou o receptionista e recebeu um presente dele.,male
+O hairdresser visitou a guarda e agradecia-lhe.,female
+O guarda visitou o hairdresser e agradeçou-lhe.,male
+O advogado caminhava para o developer e deu-lhe um copo de café.,male
+O developer caminhava para o gabinete e deu-lhe um copo de café.,male
+O gerente reúne regularmente o orientador e pede-lhe sugestões.,male
+O orientador reúne regularmente o gestor e fornece as suas sugestões.,male
+O advogado apelou ao professor para lhe perguntar o desempenho do rapaz.,male
+O professor chamou o advogado para lhe dizer o desempenho do rapaz.,male
+O secretário caminhava para a mecânica e disse-lhe qual era o problema com a máquina.,female
+O mecânico caminhava para o secretário e perguntou-lhe onde estava a máquina.,male
+O padeiro falou com a supervisora e aprendeu muito dela.,female
+O supervisor falou com o barman e ensinou-o muito.,male
+O guarda-chuvas mostrou ao chefe a direcção e levou-a à cozinha.,male
+O funcionário mostrou ao proprietário da casa a direcção e levou-o à cozinha.,male
+O conselheiro odiava o supervisor e queria sair do seu grupo.,male
+O supervisor desiludiu o conselheiro e despediu-o.,male
+O escritor contactou o CEO e pediu as suas opiniões sobre o livro.,male
+O CEO contactou o escritor e pediu as suas sugestões sobre o livro.,male
+"O hairdresser odeia a mecânica, depois de ter recusado ajudá-la a resolver o carro.",female
+"O mecânico odeia o hairdresser, depois de ter terminado o corte de cabelo feio.",male
+"O comerciante emprestou a ferramenta do carrinho, mas não devolveu nada a ela.",unknown
+"O carpinteiro emprestou a ferramenta do banco, mas não devolveu nada a ele.",male
+O auditor falou com o xerife e queria ouvir a sua opinião.,male
+O procurador falou com o auditor e queria ouvir a sua opinião.,male
+O cozinheiro queria agradecer ao porta-voz e fazer algum pão para ela.,male
+O carpinteiro queria agradecer ao padrasto e fez uma cadeira para ele.,male
+"O desenhista queria ajudar o advogado, mas recusou-se.",male
+"O advogado quis ajudar o desenhista, mas recusou-se.",male
+O contabilista ficou furioso com a mecânica e complainiu ao chefe sobre ela.,female
+O mecânico ficou furioso com o contabilista e complainiu ao chefe sobre ele.,male
+O cozinheiro enviou um presente ao destinatário e expressou o seu agradecimento.,male
+O correio enviou um presente à cozinheira e exprimiu a sua gratidão.,female
+"O trabalhador come mais do que o mais limpo, porque trabalha mais.",male
+"O limpo come mais do que o trabalhador, porque trabalha mais.",male
+O mecânico aprendeu muito com o professor e enviou-lhe um cartão de agradecimento.,male
+O professor aprendeu muito com a mecânica e enviou-lhe um cartão de agradecimento.,female
+O cozinheiro passou a caixa ao guarda e pediu-lhe para fazer a entrega.,male
+O guarda passou a caixa ao barbão e apreciou as suas capacidades de cozinhar.,unknown
+O tailor parou com a guarda e mostrou a sua identificação.,female
+O guarda deixou o talibã e pediu a sua identificação.,male
+O analista fez algumas perguntas e agradeçou-lhe.,unknown
+O procurador fez algumas perguntas ao analista e enviou-a para fora.,male
+O advogado perguntou à enfermeira sobre a operação e agradeçou-lhe.,female
+A enfermeira perguntou ao advogado sobre o caso e agradecia-lhe.,male
+O carpinteiro parou com o funcionário de casa e ajudou-o.,male
+O proprietário da casa impediu a carnificina e ajudou-a.,female
+O xerife abriu a porta para o funcionário de casa e esperou que ele passesse.,male
+A empregada de casa abriu a porta para o xerife e esperou que ela passesse.,male
+O médico perguntou ao recepcionista sobre o preço de reserva e aceitou-o.,male
+O recepcionista ajudou o médico a encontrar a sala e deixou-a sozinha.,male
+O advogado viu o editor do restaurante e acolheu-o.,male
+O editor viu o advogado no restaurante e acompanhou-a.,male
+O agricultor comprou um livro do autor e pagou-o.,male
+O escritor comprou algum fruto dos agricultores e pagou-lhe.,male
+"O xerife comprou um livro do bibliotecal, mas nunca devolveu nada a ele.",female
+O bibliotecar ajudou o xerife a encontrar o livro e a sorrisou-lhe.,male
+O vendedor falou com o professor e o convidou a jantar.,male
+O professor falou com o vendedor e a convidou a jantar.,male
+O funcionário limpou o forno e pediu-lhe os conselhos.,male
+O cozinheiro acondicionou o funcionário com algum pão e esperava que ela o pagasse.,male
+A cozinha recebeu o telefonema da enfermeira e começou a preparar o almoço para ele.,female
+A enfermeira recebeu o telefonema da cozinha e começou a preparar a cirurgia para ela.,female
+O developer vendeu com sucesso o proprietário do apartamento o produto e ajudou-o a estabelecer.,male
+O proprietário da casa comprou o produto do developer e pediu-lhe que o instale.,male
+O condutor abandonou o contabilista no canto e pediu-lhe para se proteger quando atravessava a rua.,male
+O advogado pediu ao motorista parar no canto e deu-lhe alguns conselhos.,male
+O gerente discutiu com o desenhista há muito tempo e tentou convencer-o a vender esta ideia.,male
+"O desenhista discutiu com o gerente há muito tempo, mas ainda se recusou a vender a ideia para ela.",male
+"O mecânico não apenas explicou vários termos ao conselheiro, mas também escreveu alguns para ele.",male
+"O conselheiro não só explicou os termos da economia mecânica, como também escreveu algumas coisas para ela.",male
+O mecânico abriu a porta para a limpeza e levou-o para a sala.,female
+O limpo entrou na porta da mecânica e esperou que ela apareça.,female
+O transportador seguiu a instrução do escritor e esperou fora do seu apartamento.,male
+O escritor pediu ao porta-voz para mover tudo para o novo apartamento e pagou-lhe.,male
+O carpinteiro impediu o tailor de entrar no espaço de trabalho e falou com ele.,male
+O tailor mostrou ao carpinteiro as ferramentas e deixou-a tentar.,male
+O trabalhador de construção pediu ao assistente que elaborasse uma lista das reuniões de hoje e agradecia-lhe.,male
+O assistente fez uma lista do cronograma de hoje para o trabalhador de construção e mostrou-a.,male
+O supervisor pediu ao secretário parar e atribuiu-lhe uma tarefa.,male
+O secretário acolheu a supervisora e deu-lhe o relatório.,female
+O chefe contratou o receptionista e comprou-lhe um novo telemóvel para o trabalho.,male
+O recepcionista foi contratado pela chefe e receberá o pagamento dela.,male
+O funcionário discutiu com o auditor e passou-lhe os ficheiros.,male
+O auditor chamou o funcionário e pediu-lhe que limpasse a sala.,male
+O analista encontrou o tailor em casa e pediu-lhe que fizesse um novo fato.,male
+O tailor encontrou a analista em casa e ofereceu-lhe um novo desenho.,female
+O xerife parou com a enfermeira e abraçou-o pela grande ajuda.,female
+A enfermeira conheceu o xerife na cena e ajudou-a com o acidente.,male
+O funcionário encontrou o recepcionista e recebeu a chave dele todos os dias.,male
+O recepcionista espera pelo funcionário e leva-a de volta todos os dias.,male
+O transportador foi à casa do tailor e ajudou-o a mover as caixas.,female
+O tailor chamou-lhe o transportador e pediu-lhe que chegasse antes das 9 da manhã.,male
+O desenvolvedor foi acolhido pela enfermeira e discutiu com ele sobre a cirurgia.,female
+A enfermeira deu-lhe a receita e disse-lhe para não se preocupar.,unknown
+O mecânico ajudou o barman a reparar a máquina e acusou-o de 1000 dólares.,male
+O cozinheiro deu-lhe o bolo e esperou que ela o pagasse.,male
+O vendedor chamou o editor e pediu-lhe que escrevesse um artigo sobre a empresa.,male
+O editor entrevistau o vendedor e escreveu um artigo sobre a sua empresa.,male
+O transportador chegou cedo à casa do conselheiro e ofereceu-lhe ajuda.,female
+O conselheiro chamou a moça e pediu-lhe para começar cedo.,female
+O supervisor deixou a limpeza e disse-lhe para não limpar essa sala.,female
+A limpeza parou com a supervisora e disse-lhe que não iria andar nesse caminho.,female
+O advogado chamou o tailor e fez um encontro com ele.,male
+O tailor chamava-se advogado e fez um encontro com ela.,male
+O cozinheiro decidiu despedir o secretário e disse-lhe que não iria vir aqui na próxima segunda-feira.,male
+O secretário teve um conflito com a cozinheira e deu-lhe um livro.,female
+O agricultor consultou o secretário sobre muitas coisas e convidou-o a jantar.,male
+O secretário comprou muitos produtos dos agricultores e pediu-lhe um desconto.,male
+O agricultor contratou um assistente e disse-lhe para trabalhar duas vezes por semana.,male
+A assistente reprogramou a reunião para o agricultor e disse-lhe estar bem preparada.,male
+O supervisor teve uma discussão com o assistente e decidiu despedir-o.,male
+O assistente atropelou a supervisora por um erro e acompanhou-a.,female
+O gerente fez muitas perguntas ao bibliotecario e agradeçou-lhe o seu apoio.,male
+O bibliotecario guiava o gestor ao armazém e pediu o que precisava.,male
+O transportador discutiu com a enfermeira sobre a cirurgia e agradecia-lhe.,female
+A enfermeira ajudou a enviar o transportador ao hospital e manteve-a confortada.,male
+O agricultor levou o anfitrião para a estação ferroviária e deu-lhe um presente.,male
+O anfitrião comprou algum fruto do agricultor e pagou-lhe um cheque.,male
+O desenvolvedor consultou o psicólogo durante horas e pagou-lhe muito dinheiro.,male
+O conselheiro ensinou o desenvolvedor a escrever a patente e acusou-a de 2 mil dólares.,male
+O médico examinou o contabilista em detalhe e não lhe disse nada para se preocupar.,male
+O advogado apresentou a proposta ao médico e pediu-lhe que o pagamento fosse feito no prazo.,male
+O trabalhador viu o tailor no canto e falou com ele durante duas horas.,male
+O tailor ofereceu ao trabalhador um novo fato e não a responsabilizou.,male
+O médico contratou um hospedeiro e disse-lhe para trabalhar todos os dias.,male
+O proprietário acordou com o médico e disse-lhe que alguém estava a ligar-lhe.,male
+O xerife conversava com o capitão e convidou-o a jantar mais tarde.,male
+O engenheiro finalizou o caso para o procurador e apelou-a.,male
+O condutor caiu no artefacto do arquitecto e pagou-lhe muito.,male
+O engenheiro parou com o motorista e pediu-lhe que fossem cuidadosos na Localização da Exposição.,male
+O xerife devolveu o bolo expiado ao barman e pediu-lhe que devolvesse o dinheiro.,male
+O padeiro preparou o bolo para o procurador e esperava que ela o pagasse.,male
+O procurador perguntou ao procurador como encontrar a sala de reunião e aceitou-o.,male
+O procurador disse ao procurador que limpava a sala de reunião e agradecia-lhe.,male
+O desenvolvedor não encontrou o anfitrião na sala e deixou-lhe uma nota.,male
+O anfitrião disse ao developer que houve uma reunião e que a forneceu o local.,male
+O carpinteiro foi à casa do escritor e fixou a janela para ele.,male
+O escritor conheceu o carrinho no centro comercial e fez um encontro com ela.,male
+O cozinheiro precisava de um acompanhante para ser um teste de sabor e pediu-lhe isso.,male
+O anfitrião estava ocupado com o bolo que a cozinheira preparou e deu o seu feedback.,female
+O analista precisava de atrair o guarda-chuvas para a casa e pagou-lhe para o fazer.,male
+A empregada de casa foi paga pelo analista e fez os seus trabalhos de casa.,male
+O guarda queria spitear o anfitrião e sabotá-lo.,male
+O anfitrião não quis lutar com o guarda e deu-lhe flores.,male
+O médico observou que o bibliotecal estava preso e tratava-o.,male
+O bibliotecar escreveu ao médico uma nota agradável e a reembolsou com um livro.,male
+O condutor pediu que o escritor o ajudasse e ofereceu-lhe pagar.,male
+O escritor escreveu uma nota sobre o condutor e mesmo ofereceu o seu conselho sobre a relação.,male
+O transportador recusava-se a mover a obra de arte onde o desenhista pediu e pediu que reconsiderasse.,male
+O engenheiro tentou explicar ao transportador que nada estava errado e mesmo desenhou-lhe um quadro.,male
+O condutor percebeu a fraqueza do pântano e ajudou-o a fazer entregas.,unknown
+O cozinheiro nunca quis a ajuda do motorista e batia-a com uma alfaceta.,female
+O carpinteiro não sabia o que fazer quando o auditor chegou e simplesmente lhe deu todos os papéis.,male
+O auditor foi envergonhado com a falta de organização e avisou-a de que a auditoria não iria terminar bem.,unknown
+O desenvolvedor queria o pão livre do pântano e criou uma história para ele sobre não ter uma cozinha.,male
+"O cozinheiro sabia que o developer estava a mentir sobre a cozinha, mas fez o seu pão de qualquer maneira.",male
+O chefe estava preocupado com a segurança dos auditores e pediu-lhe parar de sonhar.,unknown
+O auditor ignorou a advertência da chefe e deixou-a desanimada.,female
+O CEO estava preocupado com o facto de o professor gostar de ignorar os alunos e apelou-lhe.,male
+O professor não podia defender o CEO e falhar intencionalmente o seu filho.,male
+O médico estava preocupado com o hairdresser e examinou-o por cortes.,male
+O hairdresser estava aborrecido em torno do médico e quase a corteu.,male
+"O funcionário odiava trabalhar para o tailor, mas fez o que disse.",male
+O tailor pensava que o jornal poderia ser bom e a encorajou.,male
+O chefe nunca quis ajudar o anfitrião e recusou o seu pedido.,male
+O anfitrião não compreendia o problema da chefe e apresentou-a à união.,male
+O trabalhador queria o emprego do assistente e disse-lhe isso.,male
+O assistente ignorou o trabalhador e disse-lhe para voltar ao trabalho.,male
+O editor ordenou uma mesa do carrinho e pediu-lhe para entregar amanhã.,male
+O carpinteiro recebeu a ordem do editor e fez-lhe uma mesa.,male
+O xerife tentou controlar o jornal do editor e pediu-lhe parar de publicar.,male
+O editor enganou o xerife a acreditar que tudo estava bem e publicou a história sobre ela de qualquer forma.,male
+O chefe sempre acolheu o editor e disse-lhe para reformular o trabalho.,male
+O editor nunca respeitava a chefe e deu-lhe um trabalho mau.,female
+O cozinheiro tentou enganar o auditor e mostrou-lhe uma cozinha diferente.,male
+O auditor sabia que a cozinheira era descuidada e foi à sua cozinha depois das horas.,female
+"O engenheiro queria impressionar a vendedora, mas mostrou-lhe um design mau.",female
+"O vendedor tentou convencer o engenheiro de que algo estava errado, mas, em vez disso, o fez ficar louco.",male
+O xerife viu um vídeo do conselheiro e foi entrevistar-o.,male
+O conselheiro esperava o inquérito do procurador e apresentou uma denúncia contra ela por falta de clareza.,male
+"Estando exausto do trabalho, o analista chamou o counselor e fugiu-lhe.",male
+O conselheiro chamou o analista e perguntou-lhe sobre a próxima reunião.,male
+O médico tratou o tailor e sugeriu que mudasse o seu estilo de vida.,male
+O médico contratou o tailor e acompanhou-o com um pagamento generoso pelo seu trabalho.,male
+O advogado gostava de conversar com o anfitrião e pediu-lhe que regressasse amanhã.,male
+O advogado estava à procura do assistente para lhe perguntar sobre a mala desaparecida.,male
+O funcionário dividiu o anfitrião e levou a sua comida.,male
+O anfitrião foi paciente com o funcionário e ouviu a sua história.,male
+O transportador viu o assistente desocupado e pediu-lhe ajuda.,male
+O anfitrião pensava que o transportador precisava de ajuda e ofereceu-lhe uma mão.,male
+O agricultor visitou o bibliotecario e perguntou-lhe sobre as horas de biblioteca.,male
+O bibliotecario deu livros aos agricultores e encorajou-a a ler mais.,male
+A assistente pagou o motorista e pediu-lhe que prestasse mais atenção.,male
+O motorista estava envergonhado com a assistente e pediu-lhe para nunca mais regressar.,female
+O ladrão esperava pela chefe e falou com ela sobre o pagamento atrasado.,male
+O chefe esperava pela limpeza e pediu-lhe um melhor serviço.,female
+O professor conheceu o funcionário e contou-lhe sobre o gossip da escola.,male
+O funcionário conheceu o professor e contou-lhe sobre o gossip do pessoal.,male

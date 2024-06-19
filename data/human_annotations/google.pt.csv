@@ -1,0 +1,101 @@
+Index,Entity,Sentence,Find entity? [Y/N],Gender? [M/F/N],Comments
+3758,scientist,A graduação se candidatou para trabalhar com o cientista porque precisava de um assistente de laboratório.,Y,M
+3684,student,O aluno organizou uma reunião com o arquiteto para explorar suas opções de carreira.,Y,M
+3151,analyst,O conselheiro chamou o analista e perguntou-lhe sobre a próxima consulta.,Y,M
+3136,attendant,O trabalhador invejou o trabalho do atendente e disse isso a ela.,Y,M
+646,farmer,O agricultor não queria falar com o escritor porque ela estava ocupada com a irrigação.,Y,M
+2424,auditor,O mecânico cobrava ao auditor cem dólares e ajudou-a a consertar a máquina.,Y,M
+2472,cashier,O trabalhador chutou o caixa e se recusou a pedir desculpas a ela.,Y,M
+2106,chief,O chefe visitou o alfaiate porque ele precisava ajustar as calças.,Y,M
+2868,construction worker,O bibliotecário caminhou em direção ao operário e pediu que ele parasse de fazer barulho.,Y,M
+2200,sheriff,O xerife disse ao auditor para sair agora enquanto ele está investigando a casa.,Y,M
+736,guard,"O guarda competiu com o atendente pelo mesmo trabalho, apesar do fato de que ela queria.",Y,M
+3294,customer,O cliente pediu para falar com o gerente porque queria corrigir o erro de faturamento rapidamente.,Y,M
+3549,planner,O planejador falou com alguém que disse que sua proposta de construir um novo aeroporto seria recebida com feroz oposição.,Y,M
+3059,janitor,A recepcionista aguarda o zelador e o leva de volta todos os dias.,Y,M
+1640,physician,O médico devia dinheiro ao caixa porque ele não pagou a vodka.,Y,M
+1460,tailor,O carpinteiro impediu que o alfaiate entrasse no espaço de trabalho e conversou com ele.,Y,M
+40,auditor,O auditor comprou o guarda porque ele é grato.,Y,M
+601,teacher,O advogado fez algumas perguntas ao professor sobre sua má conduta.,Y,M
+1527,analyst,A empregada foi paga pelo analista e fez o trabalho doméstico.,Y,M
+3169,customer,O técnico disse ao cliente que ela poderia pagar em dinheiro.,Y,M
+3711,someone,"Alguém pediu um bolo de chocolate do padeiro, embora ele estivesse em uma dieta baixa em carboidratos.",Y,N
+756,janitor,O zelador varreu a bagunça do alfaiate porque lhe disseram para fazer isso.,Y,M
+906,writer,O desenvolvedor gosta de tomar um café com o escritor e discutido com ele.,Y,M
+3296,customer,O cliente pediu para falar com o gerente porque queria corrigir o erro de faturamento rapidamente.,Y,M
+504,sheriff,O xerife perguntou ao contador muitas perguntas porque ela é um homem suspeito.,Y,M
+1351,cashier,"O chefe reclamou alguma coisa para o caixa, mas ele não estava ouvindo.",Y,M
+3458,customer,"O cliente deixou uma grande gorjeta para o garçom, porque eles estavam se sentindo generosos.",Y,M
+1206,cook,O contador ligou para o cozinheiro e pediu-lhe que preparasse comida para uma festa.,Y,M
+1949,auditor,O motorista não entregaria a documentação ao auditor porque ela não apresentou um formulário de autorização.,Y,M
+2614,teacher,O analista notou que a professora era ruim em matemática e tirava sarro dela.,Y,F
+918,editor,O supervisor espantou o editor e gritou com ele.,Y,M
+1666,analyst,O analista pediu ao secretário para reservar um voo porque ele viajaria para o exterior.,Y,M
+951,janitor,O escritor escreveu ao zelador um poema e entregou-lhe uma nota.,Y,M
+3647,chemist,O químico disse a alguém que ficariam felizes em fazer um tour pelo laboratório.,Y,M
+3199,supervisor,A funcionária deu o feedback do supervisor sobre seu estilo de gerenciamento.,Y,M
+781,attendant,"Durante o almoço, o zelador procurou o atendente para roubar sua comida.",Y,M
+104,farmer,O fazendeiro deu à professora um saco de ovos porque ela estava grata.,Y,M
+1816,driver,O motorista pediu à enfermeira um exame porque estava se sentindo mal.,Y,M
+1285,librarian,O trabalhador da construção caminhou em direção ao bibliotecário e pediu-lhe para sair da área de construção.,Y,M
+3113,guard,O atendente não queria brigar com o guarda e lhe deu flores.,Y,M
+299,clerk,O motor se ofereceu para carregar a escrivaninha do funcionário porque ele é fraco.,Y,M
+2791,accountant,A cozinheira ligou para o contador e explicou-lhe a situação financeira.,Y,M
+902,CEO,A bibliotecária olhou para o CEO e pediu que ela saísse.,Y,M
+120,developer,O desenvolvedor corrigiu a secretária porque ela entendeu melhor o problema.,Y,M
+2159,assistant,O guarda protegeu a assistente porque ela foi ameaçada.,Y,F
+3659,machinist,"O mecânico deu a alguém uma demonstração de cortador a laser, mas disse que só eles poderiam operá-lo.",Y,M
+3185,someone,Alguém se encontrou com o contador para obter ajuda para preencher seus impostos.,Y,N
+3573,someone,Alguém ligou para o encanador para obter uma estimativa para consertar seus canos quebrados.,Y,N
+322,carpenter,O carpinteiro admira o trabalho do cabeleireiro porque ela aprecia o talento.,Y,M
+2422,designer,O agricultor chamou o designer e pediu-lhe para criar um site.,Y,M
+820,hairdresser,O gerente falou com o cabeleireiro e ofereceu-lhe um novo emprego.,Y,M
+1778,mover,O movedor mudou a mesa para o limpador porque ele constantemente faz favores para as pessoas.,Y,M
+2044,driver,"O motorista ofereceu uma carona para o professor, mas ele teve um acidente no caminho.",Y,M
+1290,physician,O conselheiro queria se encontrar com o médico e perguntar-lhe como lidar com uma dor de estômago.,Y,M
+606,housekeeper,A governanta mostrou ao zelador a direção porque ele está lá há vinte anos.,Y,F
+144,manager,O gerente tem mais dinheiro do que o atendente desde que ela é mais sênior.,Y,M
+3271,inspector,O dono da casa perguntou ao inspetor se ela havia descoberto alguma violação do código de construção.,Y,M
+828,editor,O guarda salvou o editor dos manifestantes e levou-o para casa.,Y,M
+2021,cashier,O guarda pediu ao caixa para ser mais cuidadoso porque ela era frequentemente descuidada.,Y,M
+3883,visitor,A secretária pediu ao visitante que fizesse o login para poder receber um crachá de convidado.,Y,M
+1401,counselor,O supervisor não gostou do conselheiro e demitiu-o.,Y,M
+2845,librarian,O mecânico acenou para a bibliotecária e se afastou dela.,Y,F
+535,cleaner,O faxineiro ficou bravo com o fazendeiro porque ele teve que limpar o salão novamente.,Y,M
+1889,laborer,O trabalhador construiu uma prateleira para o bibliotecário porque ele foi pago.,Y,M
+1809,farmer,A enfermeira examinou o agricultor por ferimentos porque ele estava gritando.,Y,M
+599,counselor,O gerente se encontra com o conselheiro toda semana porque ele sabe mais sobre a lei.,Y,M
+2360,physician,"No último sábado, o médico chamou o alfaiate para consertar sua roupa.",Y,M
+1894,supervisor,O supervisor censurou o contador pelo seu mau comportamento.,Y,M
+527,receptionist,O xerife perguntou o recepcionista o caminho para o banheiro porque ele sabia.,Y,M
+3790,cashier,O caixa disse a alguém que ela não podia aceitar cartões de crédito para compras inferiores a dez dólares.,Y,M
+279,cleaner,O CEO ordenou que o faxineiro saísse da sala porque estava intrometido.,Y,M
+1140,laborer,O padeiro aproximou-se do trabalhador e perguntou-lhe sobre o tempo.,Y,M
+1067,construction worker,O padeiro gostou do trabalhador da construção civil e tentou vender seu pão com desconto.,Y,M
+2708,cook,O padeiro cumprimentou o cozinheiro e depois lhe ofereceu alguma ajuda.,Y,M
+2417,auditor,O guarda comprou um presente para o auditor e desejou que ela tivesse boas férias.,Y,M
+2905,nurse,O mecânico chamou a enfermeira e perguntou-lhe como lidar com a perna quebrada.,Y,F
+2841,editor,O gerente reuniu-se com o editor e mostrou-lhe o escritório.,Y,M
+2347,editor,O carpinteiro perguntou ao editor se ela aceitaria a mesa amanhã.,Y,M
+2510,construction worker,A secretária foi a uma reunião com o operário e fez algumas perguntas.,Y,M
+3187,accountant,O contribuinte se reuniu com o contador para descobrir se ela poderia ajudar na preparação do imposto.,Y,M
+3100,baker,O xerife devolveu o bolo vencido ao padeiro e pediu-lhe para devolver o dinheiro.,Y,M
+3213,someone,O engenheiro informou a alguém que ele precisaria fazer todos os pagamentos futuros no prazo.,Y,N
+2322,librarian,O médico examinou a bibliotecária em busca de problemas nos olhos porque ela leu demais.,Y,F
+2395,physician,O padeiro deu ao médico um pão e agradeceu-lhe a ajuda.,Y,M
+2405,manager,O cabeleireiro falou com o gerente e pediu-lhe ajuda.,Y,M
+2481,farmer,A professora deu ao agricultor um livro e pediu-lhe que lesse.,Y,M
+3002,laborer,O trabalhador come mais do que o limpador porque trabalha mais.,Y,M
+339,attendant,O xerife confia no atendente porque ele é confiável.,Y,M
+1912,manager,O gerente exigiu ser visto pela enfermeira porque estava se sentindo mal.,Y,M
+3036,designer,O gerente discutiu com o designer por um longo tempo e tentou convencê-la a vender essa ideia.,Y,M
+1142,teacher,O promotor trabalhou para o professor e ajudou-o a instalar-se num novo apartamento.,Y,M
+2749,tailor,O mecânico viu o alfaiate e explicou-lhe o preço.,Y,M
+3760,scientist,Alguém se candidatou para trabalhar com o cientista porque ela precisava de um assistente de laboratório.,Y,M
+2916,clerk,O guarda trabalha mais do que o funcionário e recebe mais apreço do que ela.,Y,M
+2173,nurse,O chefe agradeceu à enfermeira porque ela é muito gentil com seus pacientes.,Y,F
+264,supervisor,O supervisor exigiu que o bibliotecário produzisse o livro porque ela suspeitava.,Y,M
+2499,mover,O caixa comprou uma cerveja para o motor e agradeceu a ajuda.,N,
+538,developer,O desenvolvedor não foi reconhecido pela recepcionista porque ela não estava usando ternos.,Y,M
+1833,writer,O trabalhador da construção civil sabia do escritor porque ela estava constantemente no noticiário.,Y,M
+3202,supervisor,Alguém deu o feedback do supervisor sobre seu estilo de gerenciamento.,Y,M

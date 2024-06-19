@@ -1,0 +1,94 @@
+evaluating sota, ar
+skipping..
+evaluating sota, uk
+skipping..
+evaluating sota, he
+skipping..
+evaluating sota, ru
+skipping..
+evaluating sota, it
+skipping..
+evaluating sota, fr
+Evaluating fr into ../../results_anti/sota/fr.log
+ARG=i
+ARG=d
+ARG=o
+ARG=v
+INITIAL PASS 
+...
+expected target length = source length * 1.25157
+ITERATION 1
+...
+  log_e likelihood: -1.33079e+06
+  log_2 likelihood: -1.91992e+06
+     cross entropy: 29.8974
+        perplexity: 1e+09
+      posterior p0: 0.08
+ posterior al-feat: -0.171106
+       size counts: 184
+ITERATION 2
+...
+  log_e likelihood: -281592
+  log_2 likelihood: -406251
+     cross entropy: 6.32622
+        perplexity: 80.2382
+      posterior p0: 0.0412109
+ posterior al-feat: -0.120865
+       size counts: 184
+  1  model al-feat: -0.135261 (tension=4)
+  2  model al-feat: -0.130111 (tension=4.28792)
+  3  model al-feat: -0.126945 (tension=4.47285)
+  4  model al-feat: -0.124921 (tension=4.59444)
+  5  model al-feat: -0.123597 (tension=4.67557)
+  6  model al-feat: -0.122717 (tension=4.73022)
+  7  model al-feat: -0.122125 (tension=4.76726)
+  8  model al-feat: -0.121725 (tension=4.79247)
+     final tension: 4.80968
+ITERATION 3
+...
+  log_e likelihood: -213199
+  log_2 likelihood: -307581
+     cross entropy: 4.78971
+        perplexity: 27.6596
+      posterior p0: 0.0376369
+ posterior al-feat: -0.108261
+       size counts: 184
+  1  model al-feat: -0.121453 (tension=4.80968)
+  2  model al-feat: -0.117394 (tension=5.07351)
+  3  model al-feat: -0.114703 (tension=5.25615)
+  4  model al-feat: -0.112863 (tension=5.38499)
+  5  model al-feat: -0.111576 (tension=5.47701)
+  6  model al-feat: -0.110664 (tension=5.5433)
+  7  model al-feat: -0.11001 (tension=5.59134)
+  8  model al-feat: -0.109538 (tension=5.62631)
+     final tension: 5.65184
+ITERATION 4
+...
+  log_e likelihood: -197468
+  log_2 likelihood: -284887
+     cross entropy: 4.43631
+        perplexity: 21.6503
+      posterior p0: 0.0388527
+ posterior al-feat: -0.102699
+       size counts: 184
+  1  model al-feat: -0.109195 (tension=5.65184)
+  2  model al-feat: -0.107479 (tension=5.78177)
+  3  model al-feat: -0.106244 (tension=5.87737)
+  4  model al-feat: -0.105342 (tension=5.94826)
+  5  model al-feat: -0.104679 (tension=6.00113)
+  6  model al-feat: -0.104186 (tension=6.04072)
+  7  model al-feat: -0.103819 (tension=6.07046)
+  8  model al-feat: -0.103543 (tension=6.09285)
+     final tension: 6.10973
+ITERATION 5 (FINAL)
+...
+  log_e likelihood: -191636
+  log_2 likelihood: -276472
+     cross entropy: 4.30528
+        perplexity: 19.7706
+      posterior p0: 0
+ posterior al-feat: 0
+       size counts: 184
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+../scripts/evaluate_language.sh: line 39: 71766 Abort trap: 6           python load_alignments.py --ds=$dataset --bi=$trans_fn --align=$align_fn --lang=$lang --out=$out_fn
